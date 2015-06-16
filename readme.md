@@ -7,8 +7,8 @@
 * [Database System-Web Store](#database-system-web-store)
 * [CSE](#cse)
 * [OS](#os)
-* [Computer Graphics](#computer-graphics)
 * [Programming Languages](#programming-languages)
+* [Computer Graphics](#computer-graphics)
 * [Compiler](#compiler)
 
 ___
