@@ -41,3 +41,12 @@
 * [Azard](https://github.com/Azard/SE227-CSE-lab)
 * [wizardforcel](https://github.com/wizardforcel/cselabs)
 * [kingFighter](https://github.com/kingFighter/cse-lab-2013-fall)
+
+## OS
+* [Azard](https://github.com/Azard/SE315-OperatingSystem)
+
+## Computer Graphics
+* [Azard](https://github.com/Azard/World-of-Garden)
+
+## Compiler
+* [Azard, guoyanchang](https://github.com/Azard/PsychoCompiler)
