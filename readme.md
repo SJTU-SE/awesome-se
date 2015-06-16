@@ -10,6 +10,8 @@
 * [NoteBookie](https://github.com/NoteBookie/SE106-labs)
 * [zackszhu](https://github.com/zackszhu/SE106-Data-Structure)
 
+只有Project的Repo：
+
 * [wizardforcel-project](https://github.com/wizardforcel/se106project)
 * [gaocegege-project](https://github.com/gaocegege/SE106-Project)
 * [pwwpche-project](https://github.com/pwwpche/Social-Network)
