@@ -29,6 +29,7 @@ ___
 * [wizardforcel-project](https://github.com/wizardforcel/se106project)
 * [gaocegege-project](https://github.com/gaocegege/SE106-Project)
 * [pwwpche-project](https://github.com/pwwpche/Social-Network)
+* [tcbbd-project](https://github.com/tcbbd/SE106Project)
 
 ### ICS
 
@@ -71,6 +72,7 @@ ___
 ### Computer Graphics
 
 * [Azard](https://github.com/Azard/World-of-Garden)
+* [tcbbd](https://github.com/tcbbd/GLGarden)
 
 ### Compiler
 
