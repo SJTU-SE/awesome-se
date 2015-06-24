@@ -35,7 +35,8 @@ ___
 
 * [YeXiaoRain](https://github.com/YeXiaoRain/ICS_LAB)
 * [NoteBookie](https://github.com/NoteBookie/csapp-labs)
-* [hczhcz](https://github.com/hczhcz/trick-n-trick)
+* [hczhcz](https://github.com/hczhcz/trick-n-trick/tree/master/ics)
+* [hczhcz: y86jit](https://github.com/hczhcz/y86)
 * [zackszhu](https://github.com/zackszhu/CSAPP-labs)
 * [gaocegege](https://github.com/gaocegege/ICS-Labs)
 * [Azard](https://github.com/Azard/icslabs)
@@ -51,6 +52,7 @@ ___
 * [pwwpche](https://github.com/pwwpche/Simple-Online-BookStore)
 * [wizardforcel](https://github.com/wizardforcel/se223)
 * [silencious](https://github.com/silencious/DB-Bookstore)
+* [hczhcz](https://github.com/hczhcz/bookstore)
 
 ### CSE
 
@@ -60,6 +62,7 @@ ___
 * [kingFighter](https://github.com/kingFighter/cse-lab-2013-fall)
 * [mycspring](https://github.com/mycspring/cse-lab)
 * [silencious](https://github.com/silencious/CSELABS)
+* [hczhcz](https://github.com/hczhcz/cse)
 
 ### OS
 
