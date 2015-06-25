@@ -4,7 +4,7 @@
 * [Data Structure](#data-structure)
     * 只有Project的Repo
 * [ICS](#ics)
-* [Database System-Web Store](#database-system-web-store)
+* [Database System-Book Store](#database-system-book-store)
 * [CSE](#cse)
 * [OS](#os)
 * [Programming Languages](#programming-languages)
