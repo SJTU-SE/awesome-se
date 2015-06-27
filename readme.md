@@ -1,6 +1,8 @@
 # 资源清单
 
-##目录
+## 目录
+
+* [项目介绍](#项目介绍)
 * [Data Structure](#data-structure)
     * 只有Project的Repo
 * [ICS](#ics)
@@ -12,6 +14,16 @@
 * [Compiler](#compiler)
 
 ___
+
+### 项目介绍
+
+这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的Lab/Project到这个项目中。如果你有贡献的想法，
+
+* 可以直接Pull Requests
+* 或者联系[gaocegege](https://github.com/gaocegege)，邀请你加入[SJTU-SE](https://github.com/SJTU-SE)中，一起XX一起飞。
+
+以下是各种课程的列表，顺序不分先后。
+
 
 ### Data Structure
 
@@ -31,7 +43,7 @@ ___
 * [pwwpche-project](https://github.com/pwwpche/Social-Network)
 * [tcbbd-project](https://github.com/tcbbd/SE106Project)
 
-### ICS
+### ICS/CSAPP
 
 * [YeXiaoRain](https://github.com/YeXiaoRain/ICS_LAB)
 * [NoteBookie](https://github.com/NoteBookie/csapp-labs)
