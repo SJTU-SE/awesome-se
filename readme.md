@@ -7,8 +7,8 @@
     * 只有Project的Repo
 * [ICS/CSAPP](#icscsapp)
 * [Database System-Book Store](#database-system-book-store)
-* [CSE](#cse)
-* [OS](#os)
+* [CSE (yfs lab)](#cse)
+* [OS (jos lab)](#os)
 * [Programming Languages](#programming-languages)
 * [Computer Graphics](#computer-graphics)
 * [Compiler](#compiler)
@@ -66,7 +66,7 @@ ___
 * [hczhcz-2013](https://github.com/hczhcz/bookstore)
 * [silencious-2013](https://github.com/silencious/DB-Bookstore)
 
-### CSE
+### CSE (yfs lab)
 
 * [kingFighter-2011](https://github.com/kingFighter/cse-lab-2013-fall)
 * [Azard-2012](https://github.com/Azard/SE227-CSE-lab)
@@ -76,7 +76,7 @@ ___
 * [mycspring-2013](https://github.com/mycspring/cse-lab)
 * [silencious-2013](https://github.com/silencious/CSELABS)
 
-### OS
+### OS (jos lab)
 
 * [Azard-2012](https://github.com/Azard/SE315-OperatingSystem)
 
