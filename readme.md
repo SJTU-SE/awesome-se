@@ -7,8 +7,8 @@
     * 只有Project的Repo
 * [ICS/CSAPP](#icscsapp)
 * [Database System-Book Store](#database-system-book-store)
-* [CSE (yfs lab)](#cse)
-* [OS (jos lab)](#os)
+* [CSE (yfs lab)](#cse-yfs-lab)
+* [OS (jos lab)](#os-jos-lab)
 * [Programming Languages](#programming-languages)
 * [Computer Graphics](#computer-graphics)
 * [Compiler](#compiler)
