@@ -95,6 +95,9 @@ ___
 
 ### Compiler
 
-* [Azard-2012, guoyanchang-2012](https://github.com/Azard/PsychoCompiler)
+* [Azard, guoyanchang-2012](https://github.com/Azard/PsychoCompiler)
 * [tcbbd-2012](https://github.com/tcbbd/dragon-Compiler)
 * [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
+* [rododo-2013](https://github.com/rododo-meow/jcc)
+* hczhcz, gaocegege, qikangqi-2012,2013 [MyLang](https://github.com/gaocegege/CompilerLab) [MyParser](https://github.com/hczhcz/myparser) [MyLang2 & libBlock2](https://github.com/hczhcz/libblock2)
+* [rianq,silencious,yhzhang-2013](https://github.com/riaqn/estlc)
