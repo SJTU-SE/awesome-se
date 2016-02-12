@@ -19,11 +19,12 @@ ___
 
 这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的Lab/Project到这个项目中。如果你有贡献的想法，
 
-* 可以直接Pull Requests
-* 或者联系[gaocegege](https://github.com/gaocegege)，邀请你加入[SJTU-SE](https://github.com/SJTU-SE)中，一起XX一起飞。
+1. 可以直接Pull Requests
+2. 如果你是软件学院的同学，请联系[@gaocegege](https://github.com/gaocegege)，邀请你加入[SJTU-SE](https://github.com/SJTU-SE)中。
+
+PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做起\_(:зゝ∠)\_
 
 以下是各种课程的列表，顺序不分先后。
-
 
 ### Data Structure
 
