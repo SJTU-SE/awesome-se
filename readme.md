@@ -63,7 +63,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 
 * [gaocegege-2012](https://github.com/gaocegege/Onlien-Book-Store)
 * [pwwpche-2012](https://github.com/pwwpche/Simple-Online-BookStore)
-* [wizardforcel-2012](https://github.com/wizardforcel/se223)
+* wizardforcel-2012 [Bookstore with PHP、Sevlet+JSP、SSH](https://github.com/wizardforcel/se223) [Bookstore with EJB](https://github.com/wizardforcel/se343)
 * [tcbbd-2012](https://github.com/tcbbd/Web-Store)
 * [hczhcz-2013](https://github.com/hczhcz/bookstore)
 * [silencious-2013](https://github.com/silencious/DB-Bookstore)
