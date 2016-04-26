@@ -102,3 +102,10 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [rododo-2013](https://github.com/rododo-meow/jcc)
 * hczhcz, gaocegege, qikangqi-2012,2013 [MyLang](https://github.com/gaocegege/CompilerLab) [MyParser](https://github.com/hczhcz/myparser) [MyLang2 & libBlock2](https://github.com/hczhcz/libblock2)
 * [riaqn,silencious,yhzhang-2013](https://github.com/riaqn/estlc)
+
+### Distributed Systems
+The following is the result of searching "6.824 distributed systems site:github.com" on google.
+* [bluesea147](https://github.com/bluesea147/6.824)
+* [chyyuu](https://github.com/chyyuu/mit-ds-course)
+* [norlanliu](https://github.com/norlanliu/mit-6.824)
+* [zeyuanxy](https://github.com/zeyuanxy/course-6.824-distributed-systems/)
