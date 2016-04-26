@@ -101,4 +101,4 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
 * [rododo-2013](https://github.com/rododo-meow/jcc)
 * hczhcz, gaocegege, qikangqi-2012,2013 [MyLang](https://github.com/gaocegege/CompilerLab) [MyParser](https://github.com/hczhcz/myparser) [MyLang2 & libBlock2](https://github.com/hczhcz/libblock2)
-* [rianq,silencious,yhzhang-2013](https://github.com/riaqn/estlc)
+* [riaqn,silencious,yhzhang-2013](https://github.com/riaqn/estlc)
