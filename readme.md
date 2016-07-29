@@ -37,6 +37,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [silencious-2013](https://github.com/silencious/SE106)
 * [YeXiaoRain-2013](https://github.com/YeXiaoRain/SE106)
 * [zackszhu-2013](https://github.com/zackszhu/SE106-Data-Structure)
+* [codeworm96-2014](https://github.com/codeworm96/SE106-Data-Structure)
 
 只有Project的Repo：
 
@@ -44,6 +45,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [pwwpche-2012-project](https://github.com/pwwpche/Social-Network)
 * [tcbbd-2012-project](https://github.com/tcbbd/SE106Project)
 * [wizardforcel-2012-project](https://github.com/wizardforcel/se106project)
+* [codeworm96-2014-project](https://github.com/codeworm96/laindb)
 
 ### ICS/CSAPP
 
@@ -59,6 +61,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [silencious-2013](https://github.com/silencious/ICSLABS)
 * [YeXiaoRain-2013](https://github.com/YeXiaoRain/ICS_LAB)
 * [zackszhu-2013](https://github.com/zackszhu/CSAPP-labs)
+* [codeworm96-2014](https://github.com/codeworm96/ICS-Labs)
 
 ### Database System-Book Store
 
@@ -68,6 +71,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [tcbbd-2012](https://github.com/tcbbd/Web-Store)
 * [hczhcz-2013](https://github.com/hczhcz/bookstore)
 * [silencious-2013](https://github.com/silencious/DB-Bookstore)
+* [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
 
 ### CSE (yfs lab)
 
