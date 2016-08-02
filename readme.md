@@ -42,7 +42,6 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 只有Project的Repo：
 
 * [gaocegege-2012-project](https://github.com/gaocegege/SE106-Project)
-* [pwwpche-2012-project](https://github.com/pwwpche/Social-Network)
 * [tcbbd-2012-project](https://github.com/tcbbd/SE106Project)
 * [wizardforcel-2012-project](https://github.com/wizardforcel/se106project)
 * [codeworm96-2014-project](https://github.com/codeworm96/laindb)
