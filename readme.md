@@ -25,15 +25,15 @@ ___
 
 PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做起\_(:зゝ∠)\_
 
-以下是各种课程的列表，顺序不分先后。
+以下是各种课程的列表，顺序按年级主序，名字字典序次序。
 
 ### Data Structure
 
 * [Azard-2012](https://github.com/Azard/SE106-DataStructure)
 * [gaocegege-2012-lab](https://github.com/gaocegege/SE106-Homeworks)
 * [wizardforcel-2012-lab](https://github.com/wizardforcel/se106labs)
-* [NoteBookie-2013](https://github.com/NoteBookie/SE106-labs)
 * [mycspring-2013](https://github.com/mycspring/data_structure)
+* [NoteBookie-2013](https://github.com/NoteBookie/SE106-labs)
 * [silencious-2013](https://github.com/silencious/SE106)
 * [YeXiaoRain-2013](https://github.com/YeXiaoRain/SE106)
 * [zackszhu-2013](https://github.com/zackszhu/SE106-Data-Structure)
@@ -66,8 +66,8 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 
 * [gaocegege-2012](https://github.com/gaocegege/Onlien-Book-Store)
 * [pwwpche-2012](https://github.com/pwwpche/Simple-Online-BookStore)
-* wizardforcel-2012 [Bookstore with PHP, Sevlet+JSP, SSH](https://github.com/wizardforcel/se223) [Bookstore with EJB](https://github.com/wizardforcel/se343)
 * [tcbbd-2012](https://github.com/tcbbd/Web-Store)
+* wizardforcel-2012 [Bookstore with PHP, Sevlet+JSP, SSH](https://github.com/wizardforcel/se223) [Bookstore with EJB](https://github.com/wizardforcel/se343)
 * [hczhcz-2013](https://github.com/hczhcz/bookstore)
 * [silencious-2013](https://github.com/silencious/DB-Bookstore)
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
@@ -77,8 +77,8 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [kingFighter-2011](https://github.com/kingFighter/cse-lab-2013-fall)
 * [Azard-2012](https://github.com/Azard/SE227-CSE-lab)
 * [gaocegege-2012](https://github.com/gaocegege/CSE-Labs)
-* [wizardforcel-2012](https://github.com/wizardforcel/cselabs)
 * [tcbbd-2012](https://github.com/tcbbd/cselabs)
+* [wizardforcel-2012](https://github.com/wizardforcel/cselabs)
 * [hczhcz-2013](https://github.com/hczhcz/cse)
 * [mycspring-2013](https://github.com/mycspring/cse-lab)
 * [silencious-2013](https://github.com/silencious/CSELABS)
@@ -102,10 +102,10 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 
 * [Azard, guoyanchang-2012](https://github.com/Azard/PsychoCompiler)
 * [tcbbd-2012](https://github.com/tcbbd/dragon-Compiler)
-* [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
-* [rododo-2013](https://github.com/rododo-meow/jcc)
 * hczhcz, gaocegege, qikangqi-2012,2013 [MyLang](https://github.com/gaocegege/CompilerLab) [MyParser](https://github.com/hczhcz/myparser) [MyLang2 & libBlock2](https://github.com/hczhcz/libblock2)
 * [riaqn,silencious,yhzhang-2013](https://github.com/riaqn/estlc)
+* [rododo-2013](https://github.com/rododo-meow/jcc)
+* [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
 
 ### Distributed System
 The following is the result of searching "6.824 distributed systems site:github.com" on google.
