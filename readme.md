@@ -38,6 +38,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [YeXiaoRain-2013](https://github.com/YeXiaoRain/SE106)
 * [zackszhu-2013](https://github.com/zackszhu/SE106-Data-Structure)
 * [codeworm96-2014](https://github.com/codeworm96/SE106-Data-Structure)
+* [ComMouse-2014](https://github.com/ComMouse/SE106-Answers)
 
 只有Project的Repo：
 
@@ -61,6 +62,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [YeXiaoRain-2013](https://github.com/YeXiaoRain/ICS_LAB)
 * [zackszhu-2013](https://github.com/zackszhu/CSAPP-labs)
 * [codeworm96-2014](https://github.com/codeworm96/ICS-Labs)
+* [ComMouse-2014](https://github.com/ComMouse/ICS-Answers)
 
 ### Database System-Book Store
 
@@ -71,6 +73,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [hczhcz-2013](https://github.com/hczhcz/bookstore)
 * [silencious-2013](https://github.com/silencious/DB-Bookstore)
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
+* [ComMouse-2014](https://github.com/ComMouse/SE228-Answers)
 
 ### CSE (yfs lab)
 
