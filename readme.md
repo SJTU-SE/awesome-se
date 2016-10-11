@@ -13,6 +13,7 @@
 * [Computer Graphics](#computer-graphics)
 * [Compiler](#compiler)
 * [Distributed System](#distributed-system)
+* [Computer Systems Security](#computer-systems-security)
 
 ___
 
@@ -75,7 +76,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
 * [ComMouse-2014](https://github.com/ComMouse/SE228-Answers)
 
-### CSE (yfs lab)
+### CSE (yfs lab, MIT 6.033)
 
 * [kingFighter-2011](https://github.com/kingFighter/cse-lab-2013-fall)
 * [Azard-2012](https://github.com/Azard/SE227-CSE-lab)
@@ -86,7 +87,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [mycspring-2013](https://github.com/mycspring/cse-lab)
 * [silencious-2013](https://github.com/silencious/CSELABS)
 
-### OS (jos lab)
+### OS (jos lab, MIT 6.828)
 
 * [Azard-2012](https://github.com/Azard/SE315-OperatingSystem)
 * [tcbbd-2012](https://github.com/tcbbd/joslabs)
@@ -111,8 +112,17 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
 
 ### Distributed System
+
 The following is the result of searching "6.824 distributed systems site:github.com" on google.
+
 * [bluesea147](https://github.com/bluesea147/6.824)
 * [chyyuu](https://github.com/chyyuu/mit-ds-course)
 * [norlanliu](https://github.com/norlanliu/mit-6.824)
 * [zeyuanxy](https://github.com/zeyuanxy/course-6.824-distributed-systems/)
+
+### Computer Systems Security
+
+The following is the result of searching "6.858 Computer Systems Security site:github.com" on google.
+
+* [Kaffa-MY](https://github.com/Kaffa-MY/mit6.858Fall2014)
+* [alinush](https://github.com/alinush/6.858-lecture-notes)
