@@ -4,7 +4,7 @@
 
 * [项目介绍](#项目介绍)
 * [Data Structure](#data-structure)
-    * 只有Project的Repo
+    * 只有 Project 的 Repo
 * [ICS/CSAPP](#icscsapp)
 * [Database System-Book Store](#database-system-book-store)
 * [CSE (yfs lab)](#cse-yfs-lab-mit-6033)
@@ -19,12 +19,12 @@ ___
 
 ### 项目介绍
 
-这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的Lab/Project到这个项目中。如果你有贡献的想法，
+这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的 Lab/Project 到这个项目中。如果你有贡献的想法，
 
-1. 可以直接Pull Requests
-2. 如果你是软件学院的同学，请联系[@gaocegege](https://github.com/gaocegege)，邀请你加入[SJTU-SE](https://github.com/SJTU-SE)中。
+1. 可以直接 Pull Requests
+2. 如果你是软件学院的同学，请联系 [@gaocegege](https://github.com/gaocegege)，邀请你加入 [SJTU-SE](https://github.com/SJTU-SE) 中。
 
-PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做起\_(:зゝ∠)\_
+PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起\_(:зゝ∠)\_
 
 以下是各种课程的列表，顺序按年级主序，名字字典序次序。
 
@@ -41,7 +41,7 @@ PS：学院课程检查可能设有Anti-Cheat Check，远离copycat，从我做�
 * [codeworm96-2014](https://github.com/codeworm96/SE106-Data-Structure)
 * [ComMouse-2014](https://github.com/ComMouse/SE106-Answers)
 
-只有Project的Repo：
+只有 Project 的 Repo：
 
 * [gaocegege-2012-project](https://github.com/gaocegege/SE106-Project)
 * [tcbbd-2012-project](https://github.com/tcbbd/SE106Project)
