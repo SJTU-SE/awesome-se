@@ -35,6 +35,7 @@ PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我�
 * [Azard-2012](https://github.com/Azard/SE106-DataStructure)
 * [gaocegege-2012-lab](https://github.com/gaocegege/SE106-Homeworks)
 * [wizardforcel-2012-lab](https://github.com/wizardforcel/se106labs)
+* [abucraft-2013-Lab](https://github.com/abucraft/ds-Lab)
 * [mycspring-2013](https://github.com/mycspring/data_structure)
 * [NoteBookie-2013](https://github.com/NoteBookie/SE106-labs)
 * [silencious-2013](https://github.com/silencious/SE106)
@@ -58,6 +59,7 @@ PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我�
 * [pwwpche-2012](https://github.com/pwwpche/ICS_handouts)
 * [tcbbd-2012](https://github.com/tcbbd/ics-csapp-labs)
 * [wizardforcel-2012](https://github.com/wizardforcel/icslabs)
+* [abucraft-2013](https://github.com/abucraft/ics-Lab)
 * [hczhcz-2013](https://github.com/hczhcz/trick-n-trick/tree/master/ics)
 * [hczhcz-2013: y86jit](https://github.com/hczhcz/y86)
 * [mycspring-2013](https://github.com/mycspring/ics-lab)
@@ -86,6 +88,7 @@ PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我�
 * [gaocegege-2012](https://github.com/gaocegege/CSE-Labs)
 * [tcbbd-2012](https://github.com/tcbbd/cselabs)
 * [wizardforcel-2012](https://github.com/wizardforcel/cselabs)
+* [abucraft-2013](https://github.com/abucraft/lab-cse)
 * [hczhcz-2013](https://github.com/hczhcz/cse)
 * [mycspring-2013](https://github.com/mycspring/cse-lab)
 * [silencious-2013](https://github.com/silencious/CSELABS)
@@ -94,6 +97,7 @@ PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我�
 
 * [Azard-2012](https://github.com/Azard/SE315-OperatingSystem)
 * [tcbbd-2012](https://github.com/tcbbd/joslabs)
+* [abucraft-2013](https://github.com/abucraft/joslabs)
 
 ### Programming Languages
 
