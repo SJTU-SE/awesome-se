@@ -92,6 +92,7 @@ PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我�
 * [hczhcz-2013](https://github.com/hczhcz/cse)
 * [mycspring-2013](https://github.com/mycspring/cse-lab)
 * [silencious-2013](https://github.com/silencious/CSELABS)
+* [codeworm96-2014](https://github.com/codeworm96/cse-labs)
 
 ### OS (jos lab, MIT 6.828)
 
@@ -117,6 +118,7 @@ PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我�
 * [riaqn,silencious,yhzhang-2013](https://github.com/riaqn/estlc)
 * [rododo-2013](https://github.com/rododo-meow/jcc)
 * [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
+* [codeworm96-2014](https://github.com/codeworm96/compiler-labs)
 
 ### Distributed System
 
