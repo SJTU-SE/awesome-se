@@ -26,7 +26,9 @@ ___
 1. 可以直接 Pull Requests
 2. 如果你是软件学院的同学，请联系 [@gaocegege](https://github.com/gaocegege)，邀请你加入 [SJTU-SE](https://github.com/SJTU-SE) 中。
 
-PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起\_(:зゝ∠)\_
+PS：学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起
+
+**Notice:希望大家可以积极贡献，饮水不忘挖井人，目前项目少有 2015 级以及以后的同学提交自己的实现了 QAQ**
 
 以下是各种课程的列表，顺序按年级主序，名字字典序次序。
 
