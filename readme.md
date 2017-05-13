@@ -71,6 +71,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [zackszhu-2013](https://github.com/zackszhu/CSAPP-labs)
 * [codeworm96-2014](https://github.com/codeworm96/ICS-Labs)
 * [ComMouse-2014](https://github.com/ComMouse/ICS-Answers)
+* [gousaiyang-2015](https://github.com/gousaiyang/icslabs)
 
 ### Database System-Book Store
 
