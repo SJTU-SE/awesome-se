@@ -72,6 +72,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [codeworm96-2014](https://github.com/codeworm96/ICS-Labs)
 * [ComMouse-2014](https://github.com/ComMouse/ICS-Answers)
 * [gousaiyang-2015](https://github.com/gousaiyang/icslabs)
+* [vinx13-2015](https://github.com/vinx13/ics-labs) 
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 
 ### Database System-Book Store
@@ -84,6 +85,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [silencious-2013](https://github.com/silencious/DB-Bookstore)
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
 * [ComMouse-2014](https://github.com/ComMouse/SE228-Answers)
+* [vinx13-2015](https://github.com/vinx13/bookstore) 
 
 ### CSE (yfs lab, MIT 6.033)
 
