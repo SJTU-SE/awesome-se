@@ -86,6 +86,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
 * [ComMouse-2014](https://github.com/ComMouse/SE228-Answers)
 * [vinx13-2015](https://github.com/vinx13/bookstore) 
+* [jasonliu747-2015](https://github.com/jasonliu747/bookstore) 
 
 ### CSE (yfs lab, MIT 6.033)
 
