@@ -24,7 +24,7 @@ ___
 这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的 Lab/Project 到这个项目中。如果你有贡献的想法，
 
 1. 可以直接 Pull Requests
-2. 如果你是软件学院的同学，请联系 [@gaocegege(ce.gao@outlook.com)](https://github.com/gaocegege)，邀请你加入 [SJTU-SE](https://github.com/SJTU-SE) 中。
+2. 如果你是软件学院的同学，请联系 @jasonliu747(jasonliu747@gmail.com)，邀请你加入 [SJTU-SE](https://github.com/SJTU-SE) 中。
 
 PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起
 
@@ -87,8 +87,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
 * [ComMouse-2014](https://github.com/ComMouse/SE228-Answers)
 * [dynamicheart-2015](https://github.com/dynamicheart/bookstore)
-* [vinx13-2015](https://github.com/vinx13/bookstore) 
 * [jasonliu747-2015](https://github.com/jasonliu747/bookstore) 
+* [vinx13-2015](https://github.com/vinx13/bookstore) 
 
 ### CSE (yfs lab, MIT 6.033)
 
