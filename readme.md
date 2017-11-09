@@ -51,7 +51,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [gaocegege-2012-project](https://github.com/gaocegege/SE106-Project)
 * [tcbbd-2012-project](https://github.com/tcbbd/SE106Project)
 * [wizardforcel-2012-project](https://github.com/wizardforcel/se106project)
-* [codeworm96-2014-project](https://github.com/codeworm96/laindb)
+* [codeworm96-2014-project](https://github.com/codeworm96/laindb) ([Rust](https://www.rust-lang.org) binding: [laindb-rs](https://github.com/codeworm96/laindb-rs))
 * [vinx13-2015-project](https://github.com/vinx13/naivedb)
 
 ### ICS/CSAPP
@@ -111,6 +111,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [abucraft-2013](https://github.com/abucraft/joslabs)
 * [YeXiaoRain-2017-mit+doc](https://github.com/YeXiaoRain/JOS_LAB_MIT_2017)
 * [YeXiaoRain-2017-sjtu](https://github.com/YeXiaoRain/JOS_LAB_SJTU_2017)
+* [codeworm96-2014](https://github.com/codeworm96/jos)
 
 ### Programming Languages
 
