@@ -109,9 +109,9 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [Azard-2012](https://github.com/Azard/SE315-OperatingSystem)
 * [tcbbd-2012](https://github.com/tcbbd/joslabs)
 * [abucraft-2013](https://github.com/abucraft/joslabs)
+* [codeworm96-2014](https://github.com/codeworm96/jos)
 * [YeXiaoRain-2017-mit+doc](https://github.com/YeXiaoRain/JOS_LAB_MIT_2017)
 * [YeXiaoRain-2017-sjtu](https://github.com/YeXiaoRain/JOS_LAB_SJTU_2017)
-* [codeworm96-2014](https://github.com/codeworm96/jos)
 
 ### Programming Languages
 
