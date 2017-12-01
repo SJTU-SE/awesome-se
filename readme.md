@@ -52,6 +52,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [tcbbd-2012-project](https://github.com/tcbbd/SE106Project)
 * [wizardforcel-2012-project](https://github.com/wizardforcel/se106project)
 * [codeworm96-2014-project](https://github.com/codeworm96/laindb) ([Rust](https://www.rust-lang.org) binding: [laindb-rs](https://github.com/codeworm96/laindb-rs))
+* [qinjr-2015-project](https://github.com/qinjr/naive_db)
 * [vinx13-2015-project](https://github.com/vinx13/naivedb)
 
 ### ICS/CSAPP
@@ -73,6 +74,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [ComMouse-2014](https://github.com/ComMouse/ICS-Answers)
 * [dynamicheart-2015](https://github.com/dynamicheart/icslabs)
 * [gousaiyang-2015](https://github.com/gousaiyang/icslabs)
+* [qinjr-2015](https://github.com/qinjr/ICSLabs)
 * [vinx13-2015](https://github.com/vinx13/ics-labs) 
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 
