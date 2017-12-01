@@ -15,6 +15,7 @@
 * [Computer Graphics](#computer-graphics)
 * [Compiler](#compiler)
 * [Distributed System](#distributed-system)
+* [Architecture of Enterprise Applications](#architecture-of-enterprise-application)
 * [Computer Systems Security](#computer-systems-security)
 
 ___
@@ -123,6 +124,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 
 * [Azard-2012](https://github.com/Azard/World-of-Garden)
 * [tcbbd-2012](https://github.com/tcbbd/GLGarden)
+* [pwwpche-2012](https://github.com/pwwpche/OpenGL-Garden)
 * [zackszhu-2013](https://github.com/zackszhu/SimpleQuidditch)
 
 ### Compiler
@@ -143,6 +145,10 @@ The following is the result of searching "6.824 distributed systems site:github.
 * [chyyuu](https://github.com/chyyuu/mit-ds-course)
 * [norlanliu](https://github.com/norlanliu/mit-6.824)
 * [zeyuanxy](https://github.com/zeyuanxy/course-6.824-distributed-systems/)
+
+### Architecture of Enterprise Application
+
+* [pwwpche](https://github.com/pwwpche/SE353_Enterprise_Applications_EJB_Bookstore)
 
 ### Computer Systems Security
 
