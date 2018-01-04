@@ -100,7 +100,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [vinx13-2015](https://github.com/vinx13/bookstore)
 
 ### CSE (yfs lab, MIT 6.033)
-> SE117 - 计算机系统工程
+> SE227 - 计算机系统工程
 
 * [kingFighter-2011](https://github.com/kingFighter/cse-lab-2013-fall)
 * [Azard-2012](https://github.com/Azard/SE227-CSE-lab)
