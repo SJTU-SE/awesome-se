@@ -34,6 +34,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 以下是各种课程的列表，顺序按年级主序，名字字典序次序。
 
 ### Data Structure
+> 2014 级及以前：SE105 & SE106 - 程序设计  
+> 2015 级及以后：SE117 - 程序设计与数据结构
 
 * [Azard-2012](https://github.com/Azard/SE106-DataStructure)
 * [gaocegege-2012-lab](https://github.com/gaocegege/SE106-Homeworks)
@@ -57,6 +59,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [vinx13-2015-project](https://github.com/vinx13/naivedb)
 
 ### ICS/CSAPP
+> SE101 & SE111 - 计算机系统基础
 
 * [Azard-2012](https://github.com/Azard/icslabs)
 * [gaocegege-2012](https://github.com/gaocegege/ICS-Labs)
@@ -80,6 +83,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 
 ### Database System-Book Store
+> 2013 级及以前：SE223 - 数据库原理与技术  
+> 2014 级及以后：SE228 - Web 开发技术
 
 * [gaocegege-2012](https://github.com/gaocegege/Onlien-Book-Store)
 * [pwwpche-2012](https://github.com/pwwpche/Simple-Online-BookStore)
@@ -95,6 +100,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [vinx13-2015](https://github.com/vinx13/bookstore)
 
 ### CSE (yfs lab, MIT 6.033)
+> SE117 - 计算机系统工程
 
 * [kingFighter-2011](https://github.com/kingFighter/cse-lab-2013-fall)
 * [Azard-2012](https://github.com/Azard/SE227-CSE-lab)
@@ -108,6 +114,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [codeworm96-2014](https://github.com/codeworm96/cse-labs)
 
 ### OS (jos lab, MIT 6.828)
+> SE315 - 操作系统
 
 * [Azard-2012](https://github.com/Azard/SE315-OperatingSystem)
 * [tcbbd-2012](https://github.com/tcbbd/joslabs)
@@ -116,11 +123,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [YeXiaoRain-2017-mit+doc](https://github.com/YeXiaoRain/JOS_LAB_MIT_2017)
 * [YeXiaoRain-2017-sjtu](https://github.com/YeXiaoRain/JOS_LAB_SJTU_2017)
 
-### Programming Languages
-
-* [gaocegege-2012](https://github.com/gaocegege/programming-language)
-
 ### Computer Graphics
+> SE344 - 计算机图形学
 
 * [Azard-2012](https://github.com/Azard/World-of-Garden)
 * [tcbbd-2012](https://github.com/tcbbd/GLGarden)
@@ -128,6 +132,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [zackszhu-2013](https://github.com/zackszhu/SimpleQuidditch)
 
 ### Compiler
+> SE302 - 编译原理与技术
 
 * [Azard, guoyanchang-2012](https://github.com/Azard/PsychoCompiler)
 * [tcbbd-2012](https://github.com/tcbbd/dragon-Compiler)
@@ -137,7 +142,19 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
 * [codeworm96-2014](https://github.com/codeworm96/compiler-labs)
 
+### Programming Languages
+> 2014 级及以前：SE352 - 程序语言基础  
+> 2015 级之后不再开设此课程
+
+* [gaocegege-2012](https://github.com/gaocegege/programming-language)
+
+### Architecture of Enterprise Application
+> SE343 - 企业级应用系统体系架构
+
+* [pwwpche](https://github.com/pwwpche/SE353_Enterprise_Applications_EJB_Bookstore)
+
 ### Distributed System
+> MIT 6.824 - 分布式系统
 
 The following is the result of searching "6.824 distributed systems site:github.com" on google.
 
@@ -146,11 +163,8 @@ The following is the result of searching "6.824 distributed systems site:github.
 * [norlanliu](https://github.com/norlanliu/mit-6.824)
 * [zeyuanxy](https://github.com/zeyuanxy/course-6.824-distributed-systems/)
 
-### Architecture of Enterprise Application
-
-* [pwwpche](https://github.com/pwwpche/SE353_Enterprise_Applications_EJB_Bookstore)
-
 ### Computer Systems Security
+> MIT 6.858 - 计算机系统安全
 
 The following is the result of searching "6.858 Computer Systems Security site:github.com" on google.
 
