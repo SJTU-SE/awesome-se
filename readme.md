@@ -114,9 +114,9 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [mycspring-2013](https://github.com/mycspring/cse-lab)
 * [silencious-2013](https://github.com/silencious/CSELABS)
 * [codeworm96-2014](https://github.com/codeworm96/cse-labs)
-* [jasonliu747-2015](https://github.com/jasonliu747/CES-Labs) 
-* [TerCZ-2015](https://github.com/TerCZ/CSE-labs-2017)
+* [jasonliu747-2015](https://github.com/jasonliu747/CSE-Labs) 
 * [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-CSE-LAB-2017) 
+* [TerCZ-2015](https://github.com/TerCZ/CSE-labs-2017)
 
 ### OS (jos lab, MIT 6.828)
 > SE315 - 操作系统
@@ -146,8 +146,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [rododo-2013](https://github.com/rododo-meow/jcc)
 * [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
 * [codeworm96-2014](https://github.com/codeworm96/compiler-labs)
-* [TerCZ-2015](https://github.com/TerCZ/Compiler-labs-2017)
 * [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-COMPILER-LAB-2017) 
+* [TerCZ-2015](https://github.com/TerCZ/Compiler-labs-2017)
 
 ### Programming Languages
 > 2014 级及以前：SE352 - 程序语言基础  
@@ -163,8 +163,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 ### Digital Component Design
 > SE345 - 数字部件设计
 
-* [TerCZ-2015](https://github.com/TerCZ/Digital-Component-Design-labs-2017)
 * [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-DCD-LAB-2017) 
+* [TerCZ-2015](https://github.com/TerCZ/Digital-Component-Design-labs-2017)
 
 ### Computer Vision
 > SE342 - 计算机视觉
