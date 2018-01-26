@@ -170,6 +170,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 > SE342 - 计算机视觉
 
 * [TerCZ-2015](https://github.com/TerCZ/retarded-PS)
+* [JosephKim6-2015](https://github.com/JosephKim6/SE342-Computer-Vision)
 
 ### Distributed System
 > MIT 6.824 - 分布式系统
