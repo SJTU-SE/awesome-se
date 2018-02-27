@@ -78,9 +78,9 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [ComMouse-2014](https://github.com/ComMouse/ICS-Answers)
 * [dynamicheart-2015](https://github.com/dynamicheart/icslabs)
 * [gousaiyang-2015](https://github.com/gousaiyang/icslabs)
-* [Jzy-2015](https://github.com/Wesley-Jzy/icslabs) 
+* [Jzy-2015](https://github.com/Wesley-Jzy/icslabs)
 * [qinjr-2015](https://github.com/qinjr/ICSLabs)
-* [vinx13-2015](https://github.com/vinx13/ics-labs) 
+* [vinx13-2015](https://github.com/vinx13/ics-labs)
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 
 ### Database System-Book Store
@@ -96,7 +96,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
 * [ComMouse-2014](https://github.com/ComMouse/SE228-Answers)
 * [dynamicheart-2015](https://github.com/dynamicheart/bookstore)
-* [jasonliu747-2015](https://github.com/jasonliu747/bookstore) 
+* [jasonliu747-2015](https://github.com/jasonliu747/bookstore)
 * [rudeigerc-2015](https://github.com/rudeigerc/SE228)
 * [vinx13-2015](https://github.com/vinx13/bookstore)
 * [TerCZ-2015](https://github.com/TerCZ/Naive-Book-Store)
@@ -114,8 +114,9 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [mycspring-2013](https://github.com/mycspring/cse-lab)
 * [silencious-2013](https://github.com/silencious/CSELABS)
 * [codeworm96-2014](https://github.com/codeworm96/cse-labs)
-* [jasonliu747-2015](https://github.com/jasonliu747/CSE-Labs) 
-* [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-CSE-LAB-2017) 
+* [gousaiyang-2015](https://github.com/gousaiyang/cse-labs)
+* [jasonliu747-2015](https://github.com/jasonliu747/CSE-Labs)
+* [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-CSE-LAB-2017)
 * [TerCZ-2015](https://github.com/TerCZ/CSE-labs-2017)
 
 ### OS (jos lab, MIT 6.828)
@@ -146,7 +147,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [rododo-2013](https://github.com/rododo-meow/jcc)
 * [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
 * [codeworm96-2014](https://github.com/codeworm96/compiler-labs)
-* [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-COMPILER-LAB-2017) 
+* [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-COMPILER-LAB-2017)
 * [TerCZ-2015](https://github.com/TerCZ/Compiler-labs-2017)
 
 ### Programming Languages
@@ -163,12 +164,14 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 ### Digital Component Design
 > SE345 - 数字部件设计
 
-* [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-DCD-LAB-2017) 
+* [gousaiyang-2015](https://github.com/gousaiyang/SE345-digital-design)
+* [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-DCD-LAB-2017)
 * [TerCZ-2015](https://github.com/TerCZ/Digital-Component-Design-labs-2017)
 
 ### Computer Vision
 > SE342 - 计算机视觉
 
+* [gousaiyang-2015](https://github.com/gousaiyang/SE342-simple-image-processor)
 * [TerCZ-2015](https://github.com/TerCZ/retarded-PS)
 * [JosephKim6-2015](https://github.com/JosephKim6/SE342-Computer-Vision)
 
