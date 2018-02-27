@@ -35,7 +35,10 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 
 以下是各种课程的列表，顺序按年级主序，名字字典序次序。
 
-### Data Structure
+### Data Structure (Stanford CS106b)
+
+<a name='data-structure'></a>
+
 > 2014 级及以前：SE105 & SE106 - 程序设计  
 > 2015 级及以后：SE117 - 程序设计与数据结构
 
@@ -60,7 +63,10 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [qinjr-2015-project](https://github.com/qinjr/naive_db)
 * [vinx13-2015-project](https://github.com/vinx13/naivedb)
 
-### ICS/CSAPP
+### ICS/CSAPP (CMU 15-213)
+
+<a name='icscsapp'></a>
+
 > SE101 & SE111 - 计算机系统基础
 
 * [Azard-2012](https://github.com/Azard/icslabs)
@@ -92,7 +98,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [gaocegege-2012](https://github.com/gaocegege/Onlien-Book-Store)
 * [pwwpche-2012](https://github.com/pwwpche/Simple-Online-BookStore)
 * [tcbbd-2012](https://github.com/tcbbd/Web-Store)
-* wizardforcel-2012 [Bookstore with PHP, Sevlet+JSP, SSH](https://github.com/wizardforcel/se223) [Bookstore with EJB](https://github.com/wizardforcel/se343)
+* [wizardforcel-2012](https://github.com/wizardforcel/se223)
 * [hczhcz-2013](https://github.com/hczhcz/bookstore)
 * [silencious-2013](https://github.com/silencious/DB-Bookstore)
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
@@ -159,9 +165,11 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [gaocegege-2012](https://github.com/gaocegege/programming-language)
 
 ### Architecture of Enterprise Application
+
 > SE343 - 企业级应用系统体系架构
 
 * [pwwpche](https://github.com/pwwpche/SE353_Enterprise_Applications_EJB_Bookstore)
+* [wizardforcel-2012](https://github.com/wizardforcel/se343)
 
 ### Digital Component Design
 > SE345 - 数字部件设计
