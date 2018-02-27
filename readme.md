@@ -11,11 +11,13 @@
 * [Database System-Book Store](#database-system-book-store)
 * [CSE (yfs lab)](#cse-yfs-lab-mit-6033)
 * [OS (jos lab)](#os-jos-lab-mit-6828)
-* [Programming Languages](#programming-languages)
 * [Computer Graphics](#computer-graphics)
 * [Compiler](#compiler)
-* [Distributed System](#distributed-system)
+* [Programming Languages](#programming-languages)
 * [Architecture of Enterprise Applications](#architecture-of-enterprise-application)
+* [Digital Component Design](#digital-component-design)
+* [Computer Vision](#computer-vision)
+* [Distributed System](#distributed-system)
 * [Computer Systems Security](#computer-systems-security)
 
 ___
