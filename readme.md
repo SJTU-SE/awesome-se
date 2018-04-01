@@ -126,6 +126,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [jasonliu747-2015](https://github.com/jasonliu747/CSE-Labs)
 * [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-CSE-LAB-2017)
 * [TerCZ-2015](https://github.com/TerCZ/CSE-labs-2017)
+* [vinx13-2015](https://github.com/vinx13/SE227)
 
 ### OS (jos lab, MIT 6.828)
 > SE315 - 操作系统
@@ -144,6 +145,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [tcbbd-2012](https://github.com/tcbbd/GLGarden)
 * [pwwpche-2012](https://github.com/pwwpche/OpenGL-Garden)
 * [zackszhu-2013](https://github.com/zackszhu/SimpleQuidditch)
+* [vinx13-2015](https://github.com/vinx13/SE344)
 
 ### Compiler
 > SE302 - 编译原理与技术
@@ -157,6 +159,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [codeworm96-2014](https://github.com/codeworm96/compiler-labs)
 * [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-COMPILER-LAB-2017)
 * [TerCZ-2015](https://github.com/TerCZ/Compiler-labs-2017)
+* [vinx13-2015](https://github.com/vinx13/SE302)
 
 ### Programming Languages
 > 2014 级及以前：SE352 - 程序语言基础  
