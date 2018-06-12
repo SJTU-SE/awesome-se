@@ -17,6 +17,7 @@
 * [Architecture of Enterprise Applications](#architecture-of-enterprise-application)
 * [Digital Component Design](#digital-component-design)
 * [Computer Vision](#computer-vision)
+* [Development and Implementation of Enterprise Information System](#development-and-implementation-of-enterprise-information-system)
 * [Distributed System](#distributed-system)
 * [Computer Systems Security](#computer-systems-security)
 
@@ -187,6 +188,11 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [gousaiyang-2015](https://github.com/gousaiyang/SE342-simple-image-processor)
 * [TerCZ-2015](https://github.com/TerCZ/retarded-PS)
 * [JosephKim6-2015](https://github.com/JosephKim6/SE342-Computer-Vision)
+
+### Development and Implementation of Enterprise Information System
+> SE350 - 企业信息系统综合设计与实现
+
+* rudeigerc, ljw9609, jasonliu747-2015 [project-matthiola](https://github.com/project-matthiola)
 
 ### Distributed System
 > MIT 6.824 - 分布式系统
