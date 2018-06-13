@@ -147,6 +147,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [pwwpche-2012](https://github.com/pwwpche/OpenGL-Garden)
 * [zackszhu-2013](https://github.com/zackszhu/SimpleQuidditch)
 * [vinx13-2015](https://github.com/vinx13/SE344)
+* [zrdumped-2015](https://github.com/zrdumped/GlacierAndPhenix)
 
 ### Compiler
 > SE302 - 编译原理与技术
