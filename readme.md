@@ -109,6 +109,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [rudeigerc-2015](https://github.com/rudeigerc/SE228)
 * [vinx13-2015](https://github.com/vinx13/bookstore)
 * [TerCZ-2015](https://github.com/TerCZ/Naive-Book-Store)
+* [zzbslayer-frontend-2016](https://github.com/zzbslayer/bookstore-web-dev)
+* [zzbslayer-backent-2016](https://github.com/zzbslayer/bookstore-backend)
 
 ### CSE (yfs lab, MIT 6.033)
 > SE227 - 计算机系统工程
