@@ -93,6 +93,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [vinx13-2015](https://github.com/vinx13/ics-labs)
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 * [jry-king-2016](https://github.com/jry-king/icslabs)
+* [lingxu-wxw-2016](https://github.com/lingxu-wxw/ics-lab)
 
 ### Database System-Book Store
 > 2013 级及以前：SE223 - 数据库原理与技术  
