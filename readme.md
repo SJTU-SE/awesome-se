@@ -41,7 +41,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 <a name='data-structure'></a>
 
 > 2014 级及以前：SE105 & SE106 - 程序设计  
-> 2015 级及以后：SE117 - 程序设计与数据结构
+> 2015 级及以后：SE117 - 程序设计与数据结构  
+> 工科平台：SE232 - 程序设计与数据结构 
 
 * [Azard-2012](https://github.com/Azard/SE106-DataStructure)
 * [gaocegege-2012-lab](https://github.com/gaocegege/SE106-Homeworks)
