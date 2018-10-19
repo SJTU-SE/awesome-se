@@ -144,6 +144,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [tcbbd-2012](https://github.com/tcbbd/joslabs)
 * [abucraft-2013](https://github.com/abucraft/joslabs)
 * [codeworm96-2014](https://github.com/codeworm96/jos)
+* [dynamicheart-2015](https://github.com/dynamicheart/os-labs)
 * [YeXiaoRain-2017-mit+doc](https://github.com/YeXiaoRain/JOS_LAB_MIT_2017)
 * [YeXiaoRain-2017-sjtu](https://github.com/YeXiaoRain/JOS_LAB_SJTU_2017)
 
@@ -167,6 +168,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [rododo-2013](https://github.com/rododo-meow/jcc)
 * [zackszhu-2013](https://github.com/zackszhu/ZodiacLanguage)
 * [codeworm96-2014](https://github.com/codeworm96/compiler-labs)
+* [dynamicheart-2015](https://github.com/dynamicheart/compiler-labs)
 * [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-COMPILER-LAB-2017)
 * [TerCZ-2015](https://github.com/TerCZ/Compiler-labs-2017)
 * [vinx13-2015](https://github.com/vinx13/SE302)
@@ -205,6 +207,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 
 ### Distributed System
 > MIT 6.824 - 分布式系统
+> SE347 - 分布式系统
 
 The following is the result of searching "6.824 distributed systems site:github.com" on google.
 
@@ -212,6 +215,11 @@ The following is the result of searching "6.824 distributed systems site:github.
 * [chyyuu](https://github.com/chyyuu/mit-ds-course)
 * [norlanliu](https://github.com/norlanliu/mit-6.824)
 * [zeyuanxy](https://github.com/zeyuanxy/course-6.824-distributed-systems/)
+
+SE347《分布式系统》课程实验：
+
+* [dynamicheart-2015](https://github.com/dynamicheart/ds-labs)
+* dynamicheart, vinx13, timchen1997-2015 [Final Project: DTSS](https://github.com/dynamicheart/DTSS)
 
 ### Computer Systems Security
 > MIT 6.858 - 计算机系统安全
