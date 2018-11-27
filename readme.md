@@ -19,6 +19,7 @@
 * [Computer Vision](#computer-vision)
 * [Development and Implementation of Enterprise Information System](#development-and-implementation-of-enterprise-information-system)
 * [Distributed System](#distributed-system)
+* [Software Testing](#software-testing)
 * [Computer Systems Security](#computer-systems-security)
 
 ___
@@ -223,6 +224,10 @@ SE347《分布式系统》课程实验：
 * [dynamicheart-2015](https://github.com/dynamicheart/ds-labs)
 * dynamicheart, vinx13, timchen1997-2015 [Final Project: DTSS](https://github.com/dynamicheart/DTSS)
 * [gousaiyang-2015](https://github.com/gousaiyang/ds-labs)
+
+### Software Testing
+
+* [gousaiyang, anchovYu, TerCZ, cbsh88-2015](https://github.com/gousaiyang/SE213-software-testing)
 
 ### Computer Systems Security
 > MIT 6.858 - 计算机系统安全
