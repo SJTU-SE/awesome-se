@@ -220,7 +220,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 
 ### Distributed System
 
-> MIT 6.824 - 分布式系统
+> MIT 6.824 - 分布式系统  
 > SE347 - 分布式系统
 
 The following is the result of searching "6.824 distributed systems site:github.com" on google.
@@ -237,6 +237,8 @@ SE347《分布式系统》课程实验：
 * [gousaiyang-2015](https://github.com/gousaiyang/ds-labs)
 
 ### Software Testing
+
+> SE213 - 软件测试
 
 * [gousaiyang, anchovYu, TerCZ, cbsh88-2015](https://github.com/gousaiyang/SE213-software-testing)
 
