@@ -109,6 +109,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [codeworm96-2014](https://github.com/codeworm96/SE228-Web)
 * [ComMouse-2014](https://github.com/ComMouse/SE228-Answers)
 * [dynamicheart-2015](https://github.com/dynamicheart/bookstore)
+* gousaiyang-2015: [PHP](https://github.com/gousaiyang/BookStore-PHP), [Java](https://github.com/gousaiyang/BookStore-Java)
 * [jasonliu747-2015](https://github.com/jasonliu747/bookstore)
 * [rudeigerc-2015](https://github.com/rudeigerc/SE228)
 * [vinx13-2015](https://github.com/vinx13/bookstore)
@@ -145,6 +146,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [abucraft-2013](https://github.com/abucraft/joslabs)
 * [codeworm96-2014](https://github.com/codeworm96/jos)
 * [dynamicheart-2015](https://github.com/dynamicheart/os-labs)
+* [gousaiyang-2015](https://github.com/gousaiyang/jos-labs)
 * [YeXiaoRain-2017-mit+doc](https://github.com/YeXiaoRain/JOS_LAB_MIT_2017)
 * [YeXiaoRain-2017-sjtu](https://github.com/YeXiaoRain/JOS_LAB_SJTU_2017)
 
@@ -220,6 +222,7 @@ SE347《分布式系统》课程实验：
 
 * [dynamicheart-2015](https://github.com/dynamicheart/ds-labs)
 * dynamicheart, vinx13, timchen1997-2015 [Final Project: DTSS](https://github.com/dynamicheart/DTSS)
+* [gousaiyang-2015](https://github.com/gousaiyang/ds-labs)
 
 ### Computer Systems Security
 > MIT 6.858 - 计算机系统安全
