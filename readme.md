@@ -181,6 +181,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [Jzy-2015](https://github.com/Wesley-Jzy/SJTU-COMPILER-LAB-2017)
 * [TerCZ-2015](https://github.com/TerCZ/Compiler-labs-2017)
 * [vinx13-2015](https://github.com/vinx13/SE302)
+* [lingxu-wxw-2016](https://github.com/lingxu-wxw/compiler-lab)
 
 ### Programming Languages
 
