@@ -141,6 +141,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [TerCZ-2015](https://github.com/TerCZ/CSE-labs-2017)
 * [vinx13-2015](https://github.com/vinx13/SE227)
 * [TongruizheWithGzz-2016](https://github.com/TongRuizheWithGzz/CSE-labs)
+* [llIllIllIlllIll-2017](https://github.com/llIllIllIlllIll/CSE-Lab)
 
 ### OS (jos lab, MIT 6.828)
 
@@ -183,6 +184,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [vinx13-2015](https://github.com/vinx13/SE302)
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/compiler-lab)
 * [LQYuan-2017](https://github.com/CodingYuanLiu/Compilers) 
+* [llIllIllIlllIll-2017](https://github.com/llIllIllIlllIll/Compiler-Lab)
 
 ### Programming Languages
 
