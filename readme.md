@@ -5,6 +5,7 @@
 ## 目录
 
 * [项目介绍](#项目介绍)
+* [学术诚信](#学术诚信)
 * [Data Structure](#data-structure)
   * 只有 Project 的 Repo
 * [ICS/CSAPP](#icscsapp)
@@ -24,16 +25,22 @@
 
 ___
 
-### 项目介绍
+## 项目介绍
 
-这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的 Lab/Project 到这个项目中。如果你有贡献的想法，
+这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的 Lab/Project 到这个项目中。如果你有贡献的想法：
 
 1. 可以直接 Pull Requests
 2. 如果你是软件学院的同学，请联系 [@rudeigerc (rudeigerc@gmail.com)](https://github.com/rudeigerc)，邀请你加入 [SJTU-SE](https://github.com/SJTU-SE) 中。
 
-PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起
-
 **Notice: 希望大家可以积极贡献，饮水不忘挖井人，目前项目少有 2016 级以及以后的同学提交自己的实现了 QAQ**
+
+## 学术诚信
+
+学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起。
+
+请不要上传还在进行中的课程的编程作业。
+
+___
 
 以下是各种课程的列表，顺序按年级主序，名字字典序次序。
 
