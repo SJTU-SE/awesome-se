@@ -4,24 +4,25 @@
 
 ## 目录
 
-* [项目介绍](#项目介绍)
-* [学术诚信](#学术诚信)
-* [Data Structure](#data-structure)
-  * 只有 Project 的 Repo
-* [ICS/CSAPP](#icscsapp)
-* [Database System-Book Store](#database-system-book-store)
-* [CSE (yfs lab)](#cse-yfs-lab-mit-6033)
-* [OS (jos lab)](#os-jos-lab-mit-6828)
-* [Computer Graphics](#computer-graphics)
-* [Compiler](#compiler)
-* [Programming Languages](#programming-languages)
-* [Architecture of Enterprise Applications](#architecture-of-enterprise-application)
-* [Digital Component Design](#digital-component-design)
-* [Computer Vision](#computer-vision)
-* [Development and Implementation of Enterprise Information System](#development-and-implementation-of-enterprise-information-system)
-* [Distributed System](#distributed-system)
-* [Software Testing](#software-testing)
-* [Computer Systems Security](#computer-systems-security)
+- [资源清单](#%e8%b5%84%e6%ba%90%e6%b8%85%e5%8d%95)
+  - [目录](#%e7%9b%ae%e5%bd%95)
+  - [项目介绍](#%e9%a1%b9%e7%9b%ae%e4%bb%8b%e7%bb%8d)
+  - [学术诚信](#%e5%ad%a6%e6%9c%af%e8%af%9a%e4%bf%a1)
+    - [Data Structure (Stanford CS106b)](#data-structure-stanford-cs106b)
+    - [ICS/CSAPP (CMU 15-213)](#icscsapp-cmu-15-213)
+    - [Database System-Book Store](#database-system-book-store)
+    - [CSE (yfs lab, MIT 6.033)](#cse-yfs-lab-mit-6033)
+    - [OS (jos lab, MIT 6.828)](#os-jos-lab-mit-6828)
+    - [Computer Graphics](#computer-graphics)
+    - [Compiler](#compiler)
+    - [Programming Languages](#programming-languages)
+    - [Architecture of Enterprise Application](#architecture-of-enterprise-application)
+    - [Digital Component Design](#digital-component-design)
+    - [Computer Vision](#computer-vision)
+    - [Development and Implementation of Enterprise Information System](#development-and-implementation-of-enterprise-information-system)
+    - [Distributed System](#distributed-system)
+    - [Software Testing](#software-testing)
+    - [Computer Systems Security](#computer-systems-security)
 
 ___
 
@@ -190,6 +191,7 @@ ___
 * [vinx13-2015](https://github.com/vinx13/SE302)
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/compiler-lab)
 * [LQYuan-2017](https://github.com/CodingYuanLiu/Compilers) 
+* [zhaoshenglong-2017](https://github.com/zhaoshenglong/compilers_lab)
 
 ### Programming Languages
 
