@@ -24,6 +24,7 @@
     * [Distributed System](#distributed-system)
     * [Software Testing](#software-testing)
     * [Computer Systems Security](#computer-systems-security)
+    * [Information System Engineering](#information-system-engineering)
 
 ___
 
@@ -265,3 +266,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 * [Kaffa-MY](https://github.com/Kaffa-MY/mit6.858Fall2014)
 * [alinush](https://github.com/alinush/6.858-lecture-notes)
+
+### Information System Engineering
+> SE348 - 信息系统工程
+* [tx19980520-2019](https://github.com/tx19980520/ISEs)
