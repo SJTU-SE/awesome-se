@@ -195,6 +195,7 @@ ___
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/compiler-lab)
 * [LQYuan-2017](https://github.com/CodingYuanLiu/Compilers) 
 * [zhaoshenglong-2017](https://github.com/zhaoshenglong/compilers_lab)
+* [ShenJiahuan-2017](https://github.com/ShenJiahuan/SE302_Compilers) 
 
 ### Programming Languages
 
