@@ -108,6 +108,7 @@ ___
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 * [jry-king-2016](https://github.com/jry-king/icslabs)
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/ics-lab)
+* [Girafboy-2017](https://github.com/girafboy/ICS-AllLabs)
 
 ### Database System-Book Store
 
