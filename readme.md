@@ -108,6 +108,7 @@ ___
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 * [jry-king-2016](https://github.com/jry-king/icslabs)
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/ics-lab)
+* [Girafboy-2017](https://github.com/girafboy/ICS-AllLabs)
 
 ### Database System-Book Store
 
@@ -153,6 +154,7 @@ ___
 * [TerCZ-2015](https://github.com/TerCZ/CSE-labs-2017)
 * [vinx13-2015](https://github.com/vinx13/SE227)
 * [TongruizheWithGzz-2016](https://github.com/TongRuizheWithGzz/CSE-labs)
+* [Girafboy-2017](https://github.com/girafboy/CSE-Lab)
 
 ### OS (jos lab, MIT 6.828)
 
@@ -198,6 +200,7 @@ ___
 * [zhaoshenglong-2017](https://github.com/zhaoshenglong/compilers_lab)
 * [ShenJiahuan-2017](https://github.com/ShenJiahuan/SE302_Compilers) 
 * [eyeKill-2017](https://github.com/eyeKill/SE302-Lab)
+* [Girafboy-2017](https://github.com/girafboy/Compiler)
 
 ### Programming Languages
 
