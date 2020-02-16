@@ -155,6 +155,7 @@ ___
 * [vinx13-2015](https://github.com/vinx13/SE227)
 * [TongruizheWithGzz-2016](https://github.com/TongRuizheWithGzz/CSE-labs)
 * [Girafboy-2017](https://github.com/girafboy/CSE-Lab)
+* [Gusabary-2017](https://github.com/Gusabary/Junior/tree/master/CSE)
 
 ### OS (jos lab, MIT 6.828)
 
@@ -179,6 +180,7 @@ ___
 * [zackszhu-2013](https://github.com/zackszhu/SimpleQuidditch)
 * [vinx13-2015](https://github.com/vinx13/SE344)
 * [zrdumped-2015](https://github.com/zrdumped/GlacierAndPhenix)
+* [Gusabary-2017](https://github.com/Gusabary/Shrine)
 
 ### Compiler
 
