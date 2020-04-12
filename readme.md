@@ -236,6 +236,7 @@ SE347《分布式系统》课程实验：
 * [dynamicheart-2015](https://github.com/dynamicheart/ds-labs)
 * dynamicheart, vinx13, timchen1997-2015 [Final Project: DTSS](https://github.com/dynamicheart/DTSS)
 * [gousaiyang-2015](https://github.com/gousaiyang/ds-labs)
+* [chiangel - 2017级](https://github.com/CHIANGEL/DS-labs)
 
 ### Software Testing
 
