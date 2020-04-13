@@ -4,36 +4,48 @@
 
 ## 目录
 
-* [项目介绍](#项目介绍)
-* [Data Structure](#data-structure)
-  * 只有 Project 的 Repo
-* [ICS/CSAPP](#icscsapp)
-* [Database System-Book Store](#database-system-book-store)
-* [CSE (yfs lab)](#cse-yfs-lab-mit-6033)
-* [OS (jos lab)](#os-jos-lab-mit-6828)
-* [Computer Graphics](#computer-graphics)
-* [Compiler](#compiler)
-* [Programming Languages](#programming-languages)
-* [Architecture of Enterprise Applications](#architecture-of-enterprise-application)
-* [Digital Component Design](#digital-component-design)
-* [Computer Vision](#computer-vision)
-* [Development and Implementation of Enterprise Information System](#development-and-implementation-of-enterprise-information-system)
-* [Distributed System](#distributed-system)
-* [Software Testing](#software-testing)
-* [Computer Systems Security](#computer-systems-security)
+* [资源清单](#资源清单)
+  * [目录](#目录)
+  * [项目介绍](#项目介绍)
+  * [学术诚信](#学术诚信)
+  * [课程列表](#课程列表)
+    * [Data Structure (Stanford CS106b)](#data-structure-stanford-cs106b)
+    * [ICS/CSAPP (CMU 15-213)](#icscsapp-cmu-15-213)
+    * [Database System-Book Store](#database-system-book-store)
+    * [CSE (yfs lab, MIT 6.033)](#cse-yfs-lab-mit-6033)
+    * [OS (jos lab, MIT 6.828)](#os-jos-lab-mit-6828)
+    * [Computer Graphics](#computer-graphics)
+    * [Compiler](#compiler)
+    * [Programming Languages](#programming-languages)
+    * [Architecture of Enterprise Application](#architecture-of-enterprise-application)
+    * [Digital Component Design](#digital-component-design)
+    * [Computer Vision](#computer-vision)
+    * [Development and Implementation of Enterprise Information System](#development-and-implementation-of-enterprise-information-system)
+    * [Distributed System](#distributed-system)
+    * [Software Testing](#software-testing)
+    * [Computer Systems Security](#computer-systems-security)
+    * [Information System Engineering](#information-system-engineering)
 
 ___
 
-### 项目介绍
+## 项目介绍
 
-这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的 Lab/Project 到这个项目中。如果你有贡献的想法，
+这是一个志在收集上海交通大学软件学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，也希望你能够积极地提交自己的 Lab/Project 到这个项目中。如果你有贡献的想法：
 
 1. 可以直接 Pull Requests
 2. 如果你是软件学院的同学，请联系 [@rudeigerc (rudeigerc@gmail.com)](https://github.com/rudeigerc)，邀请你加入 [SJTU-SE](https://github.com/SJTU-SE) 中。
 
-PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起
-
 **Notice: 希望大家可以积极贡献，饮水不忘挖井人，目前项目少有 2016 级以及以后的同学提交自己的实现了 QAQ**
+
+## 学术诚信
+
+学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起。
+
+请不要上传还在进行中的课程的编程作业。
+
+___
+
+## 课程列表
 
 以下是各种课程的列表，顺序按年级主序，名字字典序次序。
 
@@ -96,6 +108,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 * [jry-king-2016](https://github.com/jry-king/icslabs)
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/ics-lab)
+* [Girafboy-2017](https://github.com/girafboy/ICS-AllLabs)
 
 ### Database System-Book Store
 
@@ -141,6 +154,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [TerCZ-2015](https://github.com/TerCZ/CSE-labs-2017)
 * [vinx13-2015](https://github.com/vinx13/SE227)
 * [TongruizheWithGzz-2016](https://github.com/TongRuizheWithGzz/CSE-labs)
+* [Girafboy-2017](https://github.com/girafboy/CSE-Lab)
+* [Gusabary-2017](https://github.com/Gusabary/Junior/tree/master/CSE)
 
 ### OS (jos lab, MIT 6.828)
 
@@ -165,6 +180,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [zackszhu-2013](https://github.com/zackszhu/SimpleQuidditch)
 * [vinx13-2015](https://github.com/vinx13/SE344)
 * [zrdumped-2015](https://github.com/zrdumped/GlacierAndPhenix)
+* [Gusabary-2017](https://github.com/Gusabary/Shrine)
 
 ### Compiler
 
@@ -182,6 +198,11 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [TerCZ-2015](https://github.com/TerCZ/Compiler-labs-2017)
 * [vinx13-2015](https://github.com/vinx13/SE302)
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/compiler-lab)
+* [LQYuan-2017](https://github.com/CodingYuanLiu/Compilers) 
+* [zhaoshenglong-2017](https://github.com/zhaoshenglong/compilers_lab)
+* [ShenJiahuan-2017](https://github.com/ShenJiahuan/SE302_Compilers) 
+* [eyeKill-2017](https://github.com/eyeKill/SE302-Lab)
+* [Girafboy-2017](https://github.com/girafboy/Compiler)
 
 ### Programming Languages
 
@@ -236,7 +257,7 @@ SE347《分布式系统》课程实验：
 * [dynamicheart-2015](https://github.com/dynamicheart/ds-labs)
 * dynamicheart, vinx13, timchen1997-2015 [Final Project: DTSS](https://github.com/dynamicheart/DTSS)
 * [gousaiyang-2015](https://github.com/gousaiyang/ds-labs)
-* [chiangel - 2017级](https://github.com/CHIANGEL/DS-labs)
+* [chiangel-2017](https://github.com/CHIANGEL/DS-labs)
 
 ### Software Testing
 
@@ -252,3 +273,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 * [Kaffa-MY](https://github.com/Kaffa-MY/mit6.858Fall2014)
 * [alinush](https://github.com/alinush/6.858-lecture-notes)
+
+### Information System Engineering
+> SE348 - 信息系统工程
+* [tx19980520-2019](https://github.com/tx19980520/ISEs)
