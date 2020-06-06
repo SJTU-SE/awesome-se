@@ -108,6 +108,7 @@ ___
 * [YeXiaoRain-2016-cmu+doc](https://github.com/YeXiaoRain/ICS_LAB_CMU_2016)
 * [jry-king-2016](https://github.com/jry-king/icslabs)
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/ics-lab)
+* [artor1os-2016](https://github.com/artor1os/ics-labs)
 * [Girafboy-2017](https://github.com/girafboy/ICS-AllLabs)
 
 ### Database System-Book Store
@@ -167,6 +168,7 @@ ___
 * [codeworm96-2014](https://github.com/codeworm96/jos)
 * [dynamicheart-2015](https://github.com/dynamicheart/os-labs)
 * [gousaiyang-2015](https://github.com/gousaiyang/jos-labs)
+* [artor1os-2016](https://github.com/artor1os/jos-lab)
 * [YeXiaoRain-2017-mit+doc](https://github.com/YeXiaoRain/JOS_LAB_MIT_2017)
 * [YeXiaoRain-2017-sjtu](https://github.com/YeXiaoRain/JOS_LAB_SJTU_2017)
 
@@ -198,6 +200,7 @@ ___
 * [TerCZ-2015](https://github.com/TerCZ/Compiler-labs-2017)
 * [vinx13-2015](https://github.com/vinx13/SE302)
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/compiler-lab)
+* [artor1os-2016](https://github.com/artor1os/tiger)
 * [LQYuan-2017](https://github.com/CodingYuanLiu/Compilers) 
 * [zhaoshenglong-2017](https://github.com/zhaoshenglong/compilers_lab)
 * [ShenJiahuan-2017](https://github.com/ShenJiahuan/SE302_Compilers) 
@@ -257,6 +260,7 @@ SE347《分布式系统》课程实验：
 * [dynamicheart-2015](https://github.com/dynamicheart/ds-labs)
 * dynamicheart, vinx13, timchen1997-2015 [Final Project: DTSS](https://github.com/dynamicheart/DTSS)
 * [gousaiyang-2015](https://github.com/gousaiyang/ds-labs)
+* [artor1os-2016](https://github.com/artor1os/ds-labs)
 * [chiangel-2017](https://github.com/CHIANGEL/DS-labs)
 
 ### Software Testing
