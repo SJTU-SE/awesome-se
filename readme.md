@@ -264,6 +264,7 @@ SE347《分布式系统》课程实验：
 > SE213 - 软件测试
 
 * [gousaiyang, anchovYu, TerCZ, cbsh88-2015](https://github.com/gousaiyang/SE213-software-testing)
+* [chiangel, tx19980520, Girafboy, MXWXZ](https://github.com/CHIANGEL/Software-Test-Labs)
 
 ### Computer Systems Security
 
