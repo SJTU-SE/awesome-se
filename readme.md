@@ -68,6 +68,7 @@ ___
 * [zackszhu-2013](https://github.com/zackszhu/SE106-Data-Structure)
 * [codeworm96-2014](https://github.com/codeworm96/SE106-Data-Structure)
 * [ComMouse-2014](https://github.com/ComMouse/SE106-Answers)
+* [sjtuzwj-2017](https://github.com/sjtuzwj/DataStructureLab)
 
 只有 Project 的 Repo：
 
@@ -157,6 +158,7 @@ ___
 * [TongruizheWithGzz-2016](https://github.com/TongRuizheWithGzz/CSE-labs)
 * [Girafboy-2017](https://github.com/girafboy/CSE-Lab)
 * [Gusabary-2017](https://github.com/Gusabary/Junior/tree/master/CSE)
+* [sjtuzwj-2017](https://github.com/sjtuzwj/Naive-file-system)
 
 ### OS (jos lab, MIT 6.828)
 
@@ -262,7 +264,7 @@ SE347《分布式系统》课程实验：
 * [gousaiyang-2015](https://github.com/gousaiyang/ds-labs)
 * [artor1os-2016](https://github.com/artor1os/ds-labs)
 * [chiangel-2017](https://github.com/CHIANGEL/DS-labs)
-* [sjtuzwj-2017](https://github.com/sjtuzwj/DistributedKeyValueStorage)
+* [sjtuzwj-2017](https://github.com/sjtuzwj/DistributedSystemLab)
 
 ### Software Testing
 
@@ -270,6 +272,8 @@ SE347《分布式系统》课程实验：
 
 * [gousaiyang, anchovYu, TerCZ, cbsh88-2015](https://github.com/gousaiyang/SE213-software-testing)
 * [chiangel, tx19980520, Girafboy, MXWXZ](https://github.com/CHIANGEL/Software-Test-Labs)
+* [sjtuzwj,xiejiahang,liuqianxi,gaoshihao](https://github.com/sjtuzwj/SeleniumTestDemo)
+
 
 ### Computer Systems Security
 
