@@ -262,7 +262,7 @@ SE347《分布式系统》课程实验：
 * [gousaiyang-2015](https://github.com/gousaiyang/ds-labs)
 * [artor1os-2016](https://github.com/artor1os/ds-labs)
 * [chiangel-2017](https://github.com/CHIANGEL/DS-labs)
-* [sjtuzwj-2017](https://github.com/sjtuzwj/DistributedKeyValueStorage)
+* [sjtuzwj-2017](https://github.com/sjtuzwj/DistributedSystemLab)
 
 ### Software Testing
 
