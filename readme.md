@@ -157,6 +157,7 @@ ___
 * [TongruizheWithGzz-2016](https://github.com/TongRuizheWithGzz/CSE-labs)
 * [Girafboy-2017](https://github.com/girafboy/CSE-Lab)
 * [Gusabary-2017](https://github.com/Gusabary/Junior/tree/master/CSE)
+* [sjtuzwj-2017](https://github.com/sjtuzwj/Naive-file-system)
 
 ### OS (jos lab, MIT 6.828)
 
