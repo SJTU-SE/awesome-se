@@ -25,9 +25,9 @@
     * [Software Testing](#software-testing)
     * [Computer Systems Security](#computer-systems-security)
     * [Information System Engineering](#information-system-engineering)
-    * [Software Engineering Practice(SEP)](#Software Engineering Practice (SEP))
-    * [Machine Learning](#Machine Learning)
-    * [Algorithm design and Implementation](#Algorithm design and Implementation)
+    * [Software Engineering Practice(SEP)](#software-ngineering-ractice)
+    * [Machine Learning](#machine-learning)
+    * [Algorithm design and Implementation](#algorithm-design-and-implementation)
 ___
 
 ## 项目介绍
@@ -291,19 +291,25 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [tx19980520-2019](https://github.com/tx19980520/ISEs)
 
 ### Software Engineering Practice (SEP)
-<a name='Software Engineering Practice (SEP)'></a>
+
+<a name='software-engineering-practice'></a>
+
 > SE127 - 软件基础实践
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE127-SEP)
 
 ### Machine Learning
-<a name='Machine Learning'></a>
+
+<a name='machine-learning'></a>
+
 > SE125 - 机器学习
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE125-machine-learning)
 
 ### Algorithm design and Implementation
-<a name='Algorithm design and Implementation'></a>
+
+<a name='algorithm-design-and-implementation'></a>
+
 > 2018级：SE121 - 算法设计与实现
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE121)
