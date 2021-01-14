@@ -25,7 +25,7 @@
     * [Software Testing](#software-testing)
     * [Computer Systems Security](#computer-systems-security)
     * [Information System Engineering](#information-system-engineering)
-    * [Software Engineering Practice(SEP)](#software-engineering-ractice(SEP))
+    * [Software Engineering Practice(SEP)](#software-engineering-practice(SEP))
     * [Machine Learning](#machine-learning)
     * [Algorithm design and Implementation](#algorithm-design-and-implementation)
 ___
