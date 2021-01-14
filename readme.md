@@ -25,7 +25,9 @@
     * [Software Testing](#software-testing)
     * [Computer Systems Security](#computer-systems-security)
     * [Information System Engineering](#information-system-engineering)
-
+    * [Software Engineering Practice(SEP)](#Software Engineering Practice (SEP))
+    * [Machine Learning](#Machine Learning)
+    * [Algorithm design and Implementation](#Algorithm design and Implementation)
 ___
 
 ## 项目介绍
