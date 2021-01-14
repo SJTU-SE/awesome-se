@@ -25,7 +25,7 @@
     * [Software Testing](#software-testing)
     * [Computer Systems Security](#computer-systems-security)
     * [Information System Engineering](#information-system-engineering)
-    * [Software Engineering Practice(SEP)](#software-ngineering-ractice)
+    * [Software Engineering Practice(SEP)](#software-ngineering-ractice(SEP))
     * [Machine Learning](#machine-learning)
     * [Algorithm design and Implementation](#algorithm-design-and-implementation)
 ___
@@ -292,7 +292,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 ### Software Engineering Practice (SEP)
 
-<a name='software-engineering-practice'></a>
+<a name='software-engineering-practice(SEP)'></a>
 
 > SE127 - 软件基础实践
 
