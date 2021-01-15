@@ -292,23 +292,17 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 ### Software Engineering Practice (SEP)
 
-<a name='software-engineering-practice(SEP)'></a>
-
 > SE127 - 软件基础实践
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE127-SEP)
 
 ### Machine Learning
 
-<a name='machine-learning'></a>
-
 > SE125 - 机器学习
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE125-machine-learning)
 
 ### Algorithm design and Implementation
-
-<a name='algorithm-design-and-implementation'></a>
 
 > 2018级：SE121 - 算法设计与实现
 
