@@ -27,7 +27,7 @@
     * [Information System Engineering](#information-system-engineering)
     * [Software Engineering Practice(SEP)](#software-engineering-practice-sep)
     * [Machine Learning](#machine-learning)
-    * [Algorithm design and Implementation](#algorithm-design-and-implementation)
+    * [Algorithm Design and Implementation](#algorithm-design-and-implementation)
 ___
 
 ## 项目介绍
@@ -302,7 +302,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE125-machine-learning)
 
-### Algorithm design and Implementation
+### Algorithm Design and Implementation
 
 > 2018级：SE121 - 算法设计与实现
 
