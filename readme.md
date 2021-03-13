@@ -295,6 +295,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 > SE127 - 软件基础实践
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE127-SEP)
+* [AlanHN-2018](https://github.com/AlanHN/SEP_Labs)
 
 ### Machine Learning
 
