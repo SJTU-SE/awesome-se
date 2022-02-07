@@ -161,6 +161,7 @@ ___
 * [Girafboy-2017](https://github.com/girafboy/CSE-Lab)
 * [Gusabary-2017](https://github.com/Gusabary/Junior/tree/master/CSE)
 * [sjtuzwj-2017](https://github.com/sjtuzwj/Naive-file-system)
+* [WilliamX1-2019](https://github.com/WilliamX1/cse-2021)
 
 ### OS (jos lab, MIT 6.828)
 
@@ -212,6 +213,7 @@ ___
 * [eyeKill-2017](https://github.com/eyeKill/SE302-Lab)
 * [Girafboy-2017](https://github.com/girafboy/Compiler)
 * [VerySimple-2019](https://github.com/SineStriker/SJTU-2021-Compilers)
+* [WilliamX1-2019](https://github.com/WilliamX1/tiger-compiler)
 
 ### Programming Languages
 
@@ -226,6 +228,7 @@ ___
 
 * [pwwpche](https://github.com/pwwpche/SE353_Enterprise_Applications_EJB_Bookstore)
 * [wizardforcel-2012](https://github.com/wizardforcel/se343)
+* [WilliamX1-2019](https://github.com/WilliamX1/bookstore)
 
 ### Digital Component Design
 
