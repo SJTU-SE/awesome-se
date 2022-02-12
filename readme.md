@@ -189,6 +189,7 @@ ___
 * [zrdumped-2015](https://github.com/zrdumped/GlacierAndPhenix)
 * [Gusabary-2017](https://github.com/Gusabary/Shrine)
 * [Swampert-2018](https://github.com/Swampert-zhi/Lathe-Simulation)
+* [echo-xiao9-2019](https://github.com/echo-xiao9/Master-of-Oriental-Tea-Set)
 
 ### Compiler
 
@@ -229,6 +230,7 @@ ___
 * [pwwpche](https://github.com/pwwpche/SE353_Enterprise_Applications_EJB_Bookstore)
 * [wizardforcel-2012](https://github.com/wizardforcel/se343)
 * [WilliamX1-2019](https://github.com/WilliamX1/bookstore)
+* [echo-xiao9-2019](https://github.com/echo-xiao9/E-BookStore)
 
 ### Digital Component Design
 
