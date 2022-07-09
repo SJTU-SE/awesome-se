@@ -132,6 +132,7 @@ ___
 * [zzbslayer-backend-2016](https://github.com/zzbslayer/bookstore-backend)
 * [fyc1007261-backend-2016](https://github.com/fyc1007261/bookstore-backend)
 * [fyc1007261-frontend-2016](https://github.com/fyc1007261/online-bookstore)
+* [Musicminion-ebook-2022](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development)
 
 ### CSE (yfs lab, MIT 6.033)
 
