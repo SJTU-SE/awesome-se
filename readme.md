@@ -227,6 +227,7 @@ ___
 * [wizardforcel-2012](https://github.com/wizardforcel/se343)
 * [WilliamX1-2019](https://github.com/WilliamX1/bookstore)
 * [echo-xiao9-2019](https://github.com/echo-xiao9/E-BookStore)
+* [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Application-System-Architecture)
 
 ### Digital Component Design
 
