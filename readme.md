@@ -28,6 +28,7 @@
     * [Software Engineering Practice(SEP)](#software-engineering-practice-sep)
     * [Machine Learning](#machine-learning)
     * [Algorithm Design and Implementation](#algorithm-design-and-implementation)
+    * [Advanced Data Structures](#advanced-data-structures)
 ___
 
 ## 项目介绍
@@ -108,6 +109,7 @@ ___
 * [lingxu-wxw-2016](https://github.com/lingxu-wxw/ics-lab)
 * [artor1os-2016](https://github.com/artor1os/ics-labs)
 * [Girafboy-2017](https://github.com/girafboy/ICS-AllLabs)
+* [LFsoul0-2019](https://github.com/LFsoul0/ICS_Labs)
 
 ### Database System-Book Store
 
@@ -158,6 +160,7 @@ ___
 * [Gusabary-2017](https://github.com/Gusabary/Junior/tree/master/CSE)
 * [sjtuzwj-2017](https://github.com/sjtuzwj/Naive-file-system)
 * [WilliamX1-2019](https://github.com/WilliamX1/cse-2021)
+* [LFsoul0-2019](https://github.com/LFsoul0/CSE_Labs)
 
 ### OS (jos lab, MIT 6.828)
 
@@ -186,6 +189,7 @@ ___
 * [Gusabary-2017](https://github.com/Gusabary/Shrine)
 * [Swampert-2018](https://github.com/Swampert-zhi/Lathe-Simulation)
 * [echo-xiao9-2019](https://github.com/echo-xiao9/Master-of-Oriental-Tea-Set)
+* [LFsoul0-2019](https://github.com/LFsoul0/Computer-Graphics)
 
 ### Compiler
 
@@ -240,10 +244,12 @@ ___
 ### Computer Vision
 
 > SE342 - 计算机视觉
+> 2019级: SE362 - 可视计算
 
 * [gousaiyang-2015](https://github.com/gousaiyang/SE342-simple-image-processor)
 * [TerCZ-2015](https://github.com/TerCZ/retarded-PS)
 * [JosephKim6-2015](https://github.com/JosephKim6/SE342-Computer-Vision)
+* [LFsoul0-2019](https://github.com/LFsoul0/Computer-Vision)
 
 ### Development and Implementation of Enterprise Information System
 
@@ -300,6 +306,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE127-SEP)
 * [AlanHN-2018](https://github.com/AlanHN/SEP_Labs)
+* [LFsoul0-2019](https://github.com/LFsoul0/SEP_Labs)
 
 ### Machine Learning
 
@@ -312,3 +319,9 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 > 2018级：SE121 - 算法设计与实现
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE121)
+
+### Advanced Data Structures
+
+> SE2322 - 高级数据结构
+
+* [LFsoul0-2019](https://github.com/LFsoul0/Advanced-Data-Structures)
