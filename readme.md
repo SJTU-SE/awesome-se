@@ -163,9 +163,11 @@ ___
 * [WilliamX1-2019](https://github.com/WilliamX1/cse-2021)
 * [LFsoul0-2019](https://github.com/LFsoul0/CSE_Labs)
 
-### OS (jos lab, MIT 6.828)
+### OS (jos lab, MIT 6.828 | chcore lab)
 
-> SE315 - 操作系统
+> 18级及之前：SE315 - 操作系统
+>
+> 19级之后：SE3357-操作系统（系统软件方向选修课）
 
 * [Azard-2012](https://github.com/Azard/SE315-OperatingSystem)
 * [tcbbd-2012](https://github.com/tcbbd/joslabs)
@@ -176,6 +178,7 @@ ___
 * [artor1os-2016](https://github.com/artor1os/jos-lab)
 * [YeXiaoRain-2017-mit+doc](https://github.com/YeXiaoRain/JOS_LAB_MIT_2017)
 * [YeXiaoRain-2017-sjtu](https://github.com/YeXiaoRain/JOS_LAB_SJTU_2017)
+* [Electronic-Waste-2020](https://github.com/Electronic-Waste/Chcore)
 
 ### Computer Graphics
 
