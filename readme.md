@@ -167,7 +167,7 @@ ___
 
 > 18级及之前：SE315 - 操作系统
 >
-> 19级之后：SE3357-操作系统（系统软件方向选修课）
+> 19级之后：SE3357 - 操作系统（系统软件方向选修课）
 
 * [Azard-2012](https://github.com/Azard/SE315-OperatingSystem)
 * [tcbbd-2012](https://github.com/tcbbd/joslabs)
