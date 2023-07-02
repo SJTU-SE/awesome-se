@@ -168,6 +168,8 @@ ___
 > 18级及之前：SE315 - 操作系统
 >
 > 19级之后：SE3357 - 操作系统（系统软件方向选修课）
+>
+> 从18级开始，lab由jos lab转为chcore lab
 
 * [Azard-2012](https://github.com/Azard/SE315-OperatingSystem)
 * [tcbbd-2012](https://github.com/tcbbd/joslabs)
