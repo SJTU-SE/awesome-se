@@ -13,7 +13,7 @@
     * [ICS/CSAPP (CMU 15-213)](#icscsapp-cmu-15-213)
     * [Database System-Book Store](#database-system-book-store)
     * [CSE (yfs lab, MIT 6.033)](#cse-yfs-lab-mit-6033)
-    * [OS (jos lab, MIT 6.828)](#os-jos-lab-mit-6828)
+    * [OS (jos lab, MIT 6.828, chcore)](#os-jos-lab-mit-6828--chcore-lab)
     * [Computer Graphics](#computer-graphics)
     * [Compiler](#compiler)
     * [Programming Languages](#programming-languages)
