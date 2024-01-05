@@ -4,32 +4,32 @@
 
 ## 目录
 
-* [资源清单](#资源清单)
-  * [目录](#目录)
-  * [项目介绍](#项目介绍)
-  * [学术诚信](#学术诚信)
-  * [课程列表](#课程列表)
-    * [Data Structure (Stanford CS106b)](#data-structure-stanford-cs106b)
-    * [ICS/CSAPP (CMU 15-213)](#icscsapp-cmu-15-213)
-    * [Database System-Book Store](#database-system-book-store)
-    * [CSE (yfs lab, MIT 6.033)](#cse-yfs-lab-mit-6033)
-    * [OS (jos lab, MIT 6.828, chcore)](#os-jos-lab-mit-6828--chcore-lab)
-    * [Computer Graphics](#computer-graphics)
-    * [Compiler](#compiler)
-    * [Programming Languages](#programming-languages)
-    * [Architecture of Enterprise Application](#architecture-of-enterprise-application)
-    * [Digital Component Design](#digital-component-design)
-    * [Computer Vision](#computer-vision)
-    * [Development and Implementation of Enterprise Information System](#development-and-implementation-of-enterprise-information-system)
-    * [Distributed System](#distributed-system)
-    * [Software Testing](#software-testing)
-    * [Computer Systems Security](#computer-systems-security)
-    * [Information System Engineering](#information-system-engineering)
-    * [Software Engineering Practice(SEP)](#software-engineering-practice-sep)
-    * [Machine Learning](#machine-learning)
-    * [Algorithm Design and Implementation](#algorithm-design-and-implementation)
-    * [Advanced Data Structures](#advanced-data-structures)
-    * [Cloud OS](#cloud-operating-system)
+- [资源清单](#资源清单)
+  - [目录](#目录)
+  - [项目介绍](#项目介绍)
+  - [学术诚信](#学术诚信)
+  - [课程列表](#课程列表)
+    - [Data Structure (Stanford CS106b)](#data-structure-stanford-cs106b)
+    - [ICS/CSAPP (CMU 15-213)](#icscsapp-cmu-15-213)
+    - [Database System-Book Store](#database-system-book-store)
+    - [CSE (yfs lab, MIT 6.033)](#cse-yfs-lab-mit-6033)
+    - [OS (jos lab, MIT 6.828 | chcore lab)](#os-jos-lab-mit-6828--chcore-lab)
+    - [Computer Graphics](#computer-graphics)
+    - [Compiler](#compiler)
+    - [Programming Languages](#programming-languages)
+    - [Architecture of Enterprise Application](#architecture-of-enterprise-application)
+    - [Digital Component Design](#digital-component-design)
+    - [Computer Vision](#computer-vision)
+    - [Development and Implementation of Enterprise Information System](#development-and-implementation-of-enterprise-information-system)
+    - [Distributed System](#distributed-system)
+    - [Software Testing](#software-testing)
+    - [Computer Systems Security](#computer-systems-security)
+    - [Information System Engineering](#information-system-engineering)
+    - [Software Engineering Practice (SEP)](#software-engineering-practice-sep)
+    - [Machine Learning](#machine-learning)
+    - [Algorithm Design and Implementation](#algorithm-design-and-implementation)
+    - [Advanced Data Structures](#advanced-data-structures)
+    - [Cloud Operating System](#cloud-operating-system)
 ___
 
 ## 项目介绍
@@ -232,13 +232,14 @@ ___
 
 ### Architecture of Enterprise Application
 
-> SE343 - 企业级应用系统体系架构
+> SE3353 - 企业级应用系统体系架构
 
 * [pwwpche](https://github.com/pwwpche/SE353_Enterprise_Applications_EJB_Bookstore)
 * [wizardforcel-2012](https://github.com/wizardforcel/se343)
 * [WilliamX1-2019](https://github.com/WilliamX1/bookstore)
 * [echo-xiao9-2019](https://github.com/echo-xiao9/E-BookStore)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Application-System-Architecture)
+* [PeterTheSparrow-2021](https://github.com/PeterTheSparrow/SE3353-Architecture-of-Enterprise-Applications-2023Autumn-SJTU-notes)
 
 ### Digital Component Design
 
