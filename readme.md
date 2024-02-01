@@ -111,6 +111,7 @@ ___
 * [artor1os-2016](https://github.com/artor1os/ics-labs)
 * [Girafboy-2017](https://github.com/girafboy/ICS-AllLabs)
 * [LFsoul0-2019](https://github.com/LFsoul0/ICS_Labs)
+* [rennsax-2021](https://github.com/rennsax/ICS-lab)
 
 ### Database System-Book Store
 
@@ -222,6 +223,7 @@ ___
 * [Girafboy-2017](https://github.com/girafboy/Compiler)
 * [VerySimple-2019](https://github.com/SineStriker/SJTU-2021-Compilers)
 * [WilliamX1-2019](https://github.com/WilliamX1/tiger-compiler)
+* [rennsax-2021](https://github.com/rennsax/SE3355-Tiger-Compiler)
 
 ### Programming Languages
 
@@ -315,6 +317,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE127-SEP)
 * [AlanHN-2018](https://github.com/AlanHN/SEP_Labs)
 * [LFsoul0-2019](https://github.com/LFsoul0/SEP_Labs)
+* [rennsax-2022](https://github.com/rennsax/SE2308-QBasic)
 
 ### Machine Learning
 
