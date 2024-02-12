@@ -68,6 +68,7 @@ ___
 * [codeworm96-2014](https://github.com/codeworm96/SE106-Data-Structure)
 * [ComMouse-2014](https://github.com/ComMouse/SE106-Answers)
 * [sjtuzwj-2017](https://github.com/sjtuzwj/DataStructureLab)
+* [ghazariann-2023](https://github.com/ghazariann/SJTU-data-structures)
 
 只有 Project 的 Repo：
 
@@ -112,6 +113,7 @@ ___
 * [Girafboy-2017](https://github.com/girafboy/ICS-AllLabs)
 * [LFsoul0-2019](https://github.com/LFsoul0/ICS_Labs)
 * [rennsax-2021](https://github.com/rennsax/ICS-lab)
+* [ghazariann-2022](https://github.com/ghazariann/SJTU-computer-system-fundamentals)
 
 ### Database System-Book Store
 
@@ -137,6 +139,7 @@ ___
 * [fyc1007261-backend-2016](https://github.com/fyc1007261/bookstore-backend)
 * [fyc1007261-frontend-2016](https://github.com/fyc1007261/online-bookstore)
 * [Musicminion-ebook-2022](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development)
+* [ghazariann-2023](https://github.com/ghazariann/SJTU-bookstore)
 
 ### CSE (yfs lab, MIT 6.033)
 
@@ -163,6 +166,7 @@ ___
 * [sjtuzwj-2017](https://github.com/sjtuzwj/Naive-file-system)
 * [WilliamX1-2019](https://github.com/WilliamX1/cse-2021)
 * [LFsoul0-2019](https://github.com/LFsoul0/CSE_Labs)
+* [ghazariann-2023](https://github.com/ghazariann/SJTU-computer-system-engineering)
 
 ### OS (jos lab, MIT 6.828 | chcore lab)
 
@@ -224,7 +228,7 @@ ___
 * [VerySimple-2019](https://github.com/SineStriker/SJTU-2021-Compilers)
 * [WilliamX1-2019](https://github.com/WilliamX1/tiger-compiler)
 * [rennsax-2021](https://github.com/rennsax/SE3355-Tiger-Compiler)
-
+* [ghazariann-2023](https://github.com/ghazariann/SJTU-compilers)
 ### Programming Languages
 
 > 2014 级及以前：SE352 - 程序语言基础  
@@ -318,12 +322,14 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [AlanHN-2018](https://github.com/AlanHN/SEP_Labs)
 * [LFsoul0-2019](https://github.com/LFsoul0/SEP_Labs)
 * [rennsax-2022](https://github.com/rennsax/SE2308-QBasic)
+* [ghazariann-2023](https://github.com/ghazariann/SJTU-software-engineering-practice)
 
 ### Machine Learning
 
 > SE125 - 机器学习
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE125-machine-learning)
+* [ghazariann-2023](https://github.com/ghazariann/cnn-lstm)
 
 ### Algorithm Design and Implementation
 
