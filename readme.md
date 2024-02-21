@@ -349,4 +349,5 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 > SE3356 云操作系统
 
+* [lzh-2019](https://github.com/Okabe-Rintarou-0/Cloud-OS-labs)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Cloud-OS)
