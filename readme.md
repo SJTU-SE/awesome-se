@@ -84,7 +84,8 @@ ___
 
 <a name='icscsapp'></a>
 
-> SE101 & SE111 - 计算机系统基础
+> 2021 级及以前：SE101 & SE111 - 计算机系统基础  
+> 2022 级及以后：SE2301 & SE2302 计算机系统基础
 
 * [Azard-2012](https://github.com/Azard/icslabs)
 * [gaocegege-2012](https://github.com/gaocegege/ICS-Labs)
@@ -114,10 +115,8 @@ ___
 * [LFsoul0-2019](https://github.com/LFsoul0/ICS_Labs)
 * [rennsax-2021](https://github.com/rennsax/ICS-lab)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-computer-system-fundamentals)
-
-> SE2301 & SE2302 计算机系统基础
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2302-ICS)
-  
+
 ### Database System-Book Store
 
 > 2013 级及以前：SE223 - 数据库原理与技术  
