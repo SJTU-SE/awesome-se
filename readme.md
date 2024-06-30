@@ -84,7 +84,8 @@ ___
 
 <a name='icscsapp'></a>
 
-> SE101 & SE111 - 计算机系统基础
+> 2021 级及以前：SE101 & SE111 - 计算机系统基础  
+> 2022 级及以后：SE2301 & SE2302 计算机系统基础
 
 * [Azard-2012](https://github.com/Azard/icslabs)
 * [gaocegege-2012](https://github.com/gaocegege/ICS-Labs)
@@ -114,6 +115,7 @@ ___
 * [LFsoul0-2019](https://github.com/LFsoul0/ICS_Labs)
 * [rennsax-2021](https://github.com/rennsax/ICS-lab)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-computer-system-fundamentals)
+* [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2302-ICS)
 
 ### Database System-Book Store
 
@@ -323,6 +325,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [LFsoul0-2019](https://github.com/LFsoul0/SEP_Labs)
 * [rennsax-2021](https://github.com/rennsax/SE2308-QBasic)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-software-engineering-practice)
+* [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
 
 ### Machine Learning
 
