@@ -30,6 +30,8 @@
     - [Algorithm Design and Implementation](#algorithm-design-and-implementation)
     - [Advanced Data Structures](#advanced-data-structures)
     - [Cloud Operating System](#cloud-operating-system)
+    - [Math In Computer Science](#Math In Computer Science)
+
 ___
 
 ## 项目介绍
@@ -84,7 +86,8 @@ ___
 
 <a name='icscsapp'></a>
 
-> SE101 & SE111 - 计算机系统基础
+> 2021 级及以前：SE101 & SE111 - 计算机系统基础  
+> 2022 级及以后：SE2301 & SE2302 计算机系统基础
 
 * [Azard-2012](https://github.com/Azard/icslabs)
 * [gaocegege-2012](https://github.com/gaocegege/ICS-Labs)
@@ -114,6 +117,8 @@ ___
 * [LFsoul0-2019](https://github.com/LFsoul0/ICS_Labs)
 * [rennsax-2021](https://github.com/rennsax/ICS-lab)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-computer-system-fundamentals)
+* [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2302-ICS)
+* [GiggleWang-2022](https://github.com/GiggleWang/ICS_lab)
 
 ### Database System-Book Store
 
@@ -140,6 +145,8 @@ ___
 * [fyc1007261-frontend-2016](https://github.com/fyc1007261/online-bookstore)
 * [Musicminion-ebook-2020](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-bookstore)
+* [GiggleWang-2022](https://github.com/GiggleWang/web-bookstore-frontend)
+* [GiggleWang-2022](https://github.com/GiggleWang/web-bookstore-backend)
 
 ### CSE (yfs lab, MIT 6.033)
 
@@ -229,6 +236,7 @@ ___
 * [WilliamX1-2019](https://github.com/WilliamX1/tiger-compiler)
 * [rennsax-2021](https://github.com/rennsax/SE3355-Tiger-Compiler)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-compilers)
+
 ### Programming Languages
 
 > 2014 级及以前：SE352 - 程序语言基础  
@@ -311,7 +319,9 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [alinush](https://github.com/alinush/6.858-lecture-notes)
 
 ### Information System Engineering
+
 > SE348 - 信息系统工程
+
 * [tx19980520-2019](https://github.com/tx19980520/ISEs)
 
 ### Software Engineering Practice (SEP)
@@ -323,6 +333,8 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [LFsoul0-2019](https://github.com/LFsoul0/SEP_Labs)
 * [rennsax-2021](https://github.com/rennsax/SE2308-QBasic)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-software-engineering-practice)
+* [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
+* [GiggleWang-2022](https://github.com/GiggleWang/SJTU-SEP-code)
 
 ### Machine Learning
 
@@ -344,6 +356,8 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [LFsoul0-2019](https://github.com/LFsoul0/Advanced-Data-Structures)
 * [Chiaki_meow-2019](https://github.com/Chiaki-meow/Advanced-Data-Structure)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-2-Advanced-Data-Structure)
+* [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2322-ADS)
+* [GiggleWang-2022](https://github.com/GiggleWang/LSM_Tree)
 
 ### Cloud Operating System
 
@@ -351,3 +365,10 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 * [lzh-2019](https://github.com/Okabe-Rintarou-0/Cloud-OS-labs)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Cloud-OS)
+* [ghazariann-2021](https://github.com/ghazariann/minik8s)
+
+### Math In Computer Science
+
+> SE2324 计算机科学的数学基础
+
+* [GiggleWang-2022](https://github.com/GiggleWang/MathInCS)
