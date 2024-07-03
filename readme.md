@@ -30,7 +30,7 @@
     - [Algorithm Design and Implementation](#algorithm-design-and-implementation)
     - [Advanced Data Structures](#advanced-data-structures)
     - [Cloud Operating System](#cloud-operating-system)
-    - [Math In Computer Science](#Math In Computer Science)
+    - [Math In Computer Science](#math-in-computer-science)
 ___
 
 ## 项目介绍
@@ -144,8 +144,8 @@ ___
 * [fyc1007261-frontend-2016](https://github.com/fyc1007261/online-bookstore)
 * [Musicminion-ebook-2020](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-bookstore)
-* [GiggleWang-2022](https://github.com/GiggleWang/web-bookstore-frontend)
-* [GiggleWang-2022](https://github.com/GiggleWang/web-bookstore-backend)
+* [GiggleWang-frontend-2022](https://github.com/GiggleWang/web-bookstore-frontend)
+* [GiggleWang-backend-2022](https://github.com/GiggleWang/web-bookstore-backend)
 ### CSE (yfs lab, MIT 6.033)
 
 > SE227 - 计算机系统工程
