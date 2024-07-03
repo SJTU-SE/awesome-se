@@ -30,6 +30,7 @@
     - [Algorithm Design and Implementation](#algorithm-design-and-implementation)
     - [Advanced Data Structures](#advanced-data-structures)
     - [Cloud Operating System](#cloud-operating-system)
+    - [Math In Computer Science](#math-in-computer-science)
 ___
 
 ## 项目介绍
@@ -116,6 +117,7 @@ ___
 * [rennsax-2021](https://github.com/rennsax/ICS-lab)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-computer-system-fundamentals)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2302-ICS)
+* [GiggleWang-2022](https://github.com/GiggleWang/ICS_lab)
 
 ### Database System-Book Store
 
@@ -142,7 +144,8 @@ ___
 * [fyc1007261-frontend-2016](https://github.com/fyc1007261/online-bookstore)
 * [Musicminion-ebook-2020](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-bookstore)
-
+* [GiggleWang-frontend-2022](https://github.com/GiggleWang/web-bookstore-frontend)
+* [GiggleWang-backend-2022](https://github.com/GiggleWang/web-bookstore-backend)
 ### CSE (yfs lab, MIT 6.033)
 
 > SE227 - 计算机系统工程
@@ -326,6 +329,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [rennsax-2021](https://github.com/rennsax/SE2308-QBasic)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-software-engineering-practice)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
+* [GiggleWang-2022](https://github.com/GiggleWang/SJTU-SEP-code)
 
 ### Machine Learning
 
@@ -348,6 +352,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Chiaki_meow-2019](https://github.com/Chiaki-meow/Advanced-Data-Structure)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-2-Advanced-Data-Structure)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2322-ADS)
+* [GiggleWang-2022](https://github.com/GiggleWang/LSM_Tree)
 
 ### Cloud Operating System
 
@@ -356,3 +361,8 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [lzh-2019](https://github.com/Okabe-Rintarou-0/Cloud-OS-labs)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Cloud-OS)
 * [ghazariann-2021](https://github.com/ghazariann/minik8s)
+
+### Math In Computer Science
+
+> SE2324 计算机科学的数学基础
+* [GiggleWang-2022](https://github.com/GiggleWang/MathInCS)
