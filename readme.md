@@ -345,6 +345,10 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 * [shenhliu-2018](https://github.com/shenhliu/SJTU-SE121)
 
+> 2020级及以后：SE3308 - 算法设计
+
+* [EdogawaAi-2022](https://github.com/EdogawaAi/SE3308-Algorithm)
+
 ### Advanced Data Structures
 
 > SE2322 - 高级数据结构
