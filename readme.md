@@ -252,6 +252,7 @@ ___
 * [echo-xiao9-2019](https://github.com/echo-xiao9/E-BookStore)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Application-System-Architecture)
 * [PeterTheSparrow-2021](https://github.com/PeterTheSparrow/SE3353-Architecture-of-Enterprise-Applications-2023Autumn-SJTU-notes)
+* [bangdreammygo-2022](https://github.com/bangdreammygo/SJTU--SE3353)
 
 ### Digital Component Design
 
