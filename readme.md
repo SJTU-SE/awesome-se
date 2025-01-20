@@ -144,6 +144,7 @@ ___
 * [fyc1007261-frontend-2016](https://github.com/fyc1007261/online-bookstore)
 * [Musicminion-ebook-2020](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-bookstore)
+* [Ayanami-frontend-2022](https://github.com/Ayanami1314/eBookStore_Frontend)
 * [GiggleWang-frontend-2022](https://github.com/GiggleWang/web-bookstore-frontend)
 * [GiggleWang-backend-2022](https://github.com/GiggleWang/web-bookstore-backend)
 ### CSE (yfs lab, MIT 6.033)
@@ -257,6 +258,7 @@ ___
 * [echo-xiao9-2019](https://github.com/echo-xiao9/E-BookStore)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Application-System-Architecture)
 * [PeterTheSparrow-2021](https://github.com/PeterTheSparrow/SE3353-Architecture-of-Enterprise-Applications-2023Autumn-SJTU-notes)
+* [Ayanami-2022-homeworks&notes](https://ayanami1314.github.io/docs/%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E4%BD%9C%E4%B8%9A/hw1-impl)
 * [bangdreammygo-2022](https://github.com/bangdreammygo/SJTU--SE3353)
 
 ### Digital Component Design
@@ -337,7 +339,8 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-software-engineering-practice)
 * [GiggleWang-2022](https://github.com/GiggleWang/SJTU-SEP-code)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
-
+* [Ayanami-2023-QLink](https://github.com/Ayanami1314/QLink)
+* [Ayanami-2023-QBasic](https://github.com/Ayanami1314/qbasic)
 ### Machine Learning
 
 > SE125 - 机器学习
@@ -362,9 +365,11 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [LFsoul0-2019](https://github.com/LFsoul0/Advanced-Data-Structures)
 * [Chiaki_meow-2019](https://github.com/Chiaki-meow/Advanced-Data-Structure)
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-2-Advanced-Data-Structure)
+* [Ayanami-2022](https://github.com/Ayanami1314/LSM-KV)
 * [Creeper-2022](https://github.com/creeper12356/LSM-KV)
 * [GiggleWang-2022](https://github.com/GiggleWang/LSM_Tree)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2322-ADS)
+
 
 ### Cloud Operating System
 
