@@ -146,6 +146,7 @@ ___
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-bookstore)
 * [GiggleWang-frontend-2022](https://github.com/GiggleWang/web-bookstore-frontend)
 * [GiggleWang-backend-2022](https://github.com/GiggleWang/web-bookstore-backend)
+* [Ayanami-frontend-2022](https://github.com/Ayanami1314/eBookStore_Frontend)
 ### CSE (yfs lab, MIT 6.033)
 
 > SE227 - 计算机系统工程
@@ -253,6 +254,7 @@ ___
 * [Musicminion-2020](https://github.com/Musicminion/2022-2023-1-Application-System-Architecture)
 * [PeterTheSparrow-2021](https://github.com/PeterTheSparrow/SE3353-Architecture-of-Enterprise-Applications-2023Autumn-SJTU-notes)
 * [bangdreammygo-2022](https://github.com/bangdreammygo/SJTU--SE3353)
+* [Ayanami-2022-homeworks&notes](https://ayanami1314.github.io/docs/%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E4%BD%9C%E4%B8%9A/hw1-impl)
 
 ### Digital Component Design
 
@@ -332,7 +334,8 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-software-engineering-practice)
 * [GiggleWang-2022](https://github.com/GiggleWang/SJTU-SEP-code)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
-
+* [Ayanami-2023-QLink](https://github.com/Ayanami1314/QLink)
+* [Ayanami-2023-QBasic](https://github.com/Ayanami1314/qbasic)
 ### Machine Learning
 
 > SE125 - 机器学习
@@ -360,6 +363,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Creeper-2022](https://github.com/creeper12356/LSM-KV)
 * [GiggleWang-2022](https://github.com/GiggleWang/LSM_Tree)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2322-ADS)
+* [Ayanami-2022](https://github.com/Ayanami1314/LSM-KV)
 
 ### Cloud Operating System
 
