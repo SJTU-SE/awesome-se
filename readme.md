@@ -235,7 +235,7 @@ ___
 * [VerySimple-2019](https://github.com/SineStriker/SJTU-2021-Compilers)
 * [WilliamX1-2019](https://github.com/WilliamX1/tiger-compiler)
 
-> 2021级及以后：SE3355 - 编译原理
+> 2020级及以后：SE3355 - 编译原理
 
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-compilers)
 * [rennsax-2021](https://github.com/rennsax/SE3355-Tiger-Compiler)
@@ -341,6 +341,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
 * [Ayanami-2023-QLink](https://github.com/Ayanami1314/QLink)
 * [Ayanami-2023-QBasic](https://github.com/Ayanami1314/qbasic)
+
 ### Machine Learning
 
 > SE125 - 机器学习
@@ -358,10 +359,6 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 
 * [EdogawaAi-2022](https://github.com/EdogawaAi/SE3308-Algorithm)
 
-> 2020级及以后：SE3308 - 算法设计
-
-* [EdogawaAi-2022](https://github.com/EdogawaAi/SE3308-Algorithm)
-
 ### Advanced Data Structures
 
 > SE2322 - 高级数据结构
@@ -373,7 +370,6 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Creeper-2022](https://github.com/creeper12356/LSM-KV)
 * [GiggleWang-2022](https://github.com/GiggleWang/LSM_Tree)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2322-ADS)
-
 
 ### Cloud Operating System
 
