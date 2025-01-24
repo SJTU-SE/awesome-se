@@ -172,6 +172,7 @@ ___
 * [WilliamX1-2019](https://github.com/WilliamX1/cse-2021)
 * [LFsoul0-2019](https://github.com/LFsoul0/CSE_Labs)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-computer-system-engineering)
+* [EdogawaAi-2022](https://github.com/EdogawaAi/SE3331-chfs.git)
 
 ### OS (jos lab, MIT 6.828 | chcore lab)
 
@@ -232,8 +233,12 @@ ___
 * [Girafboy-2017](https://github.com/girafboy/Compiler)
 * [VerySimple-2019](https://github.com/SineStriker/SJTU-2021-Compilers)
 * [WilliamX1-2019](https://github.com/WilliamX1/tiger-compiler)
+
+> 2021级及以后：SE3355 - 编译原理
+
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-compilers)
 * [rennsax-2021](https://github.com/rennsax/SE3355-Tiger-Compiler)
+* [EdogawaAi-2022](https://github.com/EdogawaAi/compilers-2024.git)
 
 ### Programming Languages
 
