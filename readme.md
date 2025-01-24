@@ -173,6 +173,7 @@ ___
 * [WilliamX1-2019](https://github.com/WilliamX1/cse-2021)
 * [LFsoul0-2019](https://github.com/LFsoul0/CSE_Labs)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-computer-system-engineering)
+* [EdogawaAi-2022](https://github.com/EdogawaAi/SE3331-chfs.git)
 
 ### OS (jos lab, MIT 6.828 | chcore lab)
 
@@ -233,8 +234,12 @@ ___
 * [Girafboy-2017](https://github.com/girafboy/Compiler)
 * [VerySimple-2019](https://github.com/SineStriker/SJTU-2021-Compilers)
 * [WilliamX1-2019](https://github.com/WilliamX1/tiger-compiler)
+
+> 2020级及以后：SE3355 - 编译原理
+
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-compilers)
 * [rennsax-2021](https://github.com/rennsax/SE3355-Tiger-Compiler)
+* [EdogawaAi-2022](https://github.com/EdogawaAi/compilers-2024.git)
 
 ### Programming Languages
 
@@ -309,7 +314,6 @@ SE347《分布式系统》课程实验：
 * [chiangel, tx19980520, Girafboy, MXWXZ](https://github.com/CHIANGEL/Software-Test-Labs)
 * [sjtuzwj,xiejiahang,liuqianxi,gaoshihao](https://github.com/sjtuzwj/SeleniumTestDemo)
 
-
 ### Computer Systems Security
 
 > MIT 6.858 - 计算机系统安全
@@ -336,6 +340,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
 * [Ayanami-2023-QLink](https://github.com/Ayanami1314/QLink)
 * [Ayanami-2023-QBasic](https://github.com/Ayanami1314/qbasic)
+
 ### Machine Learning
 
 > SE125 - 机器学习
@@ -364,7 +369,6 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Creeper-2022](https://github.com/creeper12356/LSM-KV)
 * [GiggleWang-2022](https://github.com/GiggleWang/LSM_Tree)
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2322-ADS)
-
 
 ### Cloud Operating System
 
