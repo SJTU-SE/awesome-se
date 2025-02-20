@@ -340,6 +340,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
 * [Ayanami-2023-QLink](https://github.com/Ayanami1314/QLink)
 * [Ayanami-2023-QBasic](https://github.com/Ayanami1314/qbasic)
+* [overji-2024](https://github.com/overji/SJTU-SE-SEP2024)
 
 ### Machine Learning
 
