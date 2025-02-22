@@ -117,7 +117,7 @@ ___
 * [rennsax-2021](https://github.com/rennsax/ICS-lab)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-computer-system-fundamentals)
 * [GiggleWang-2022](https://github.com/GiggleWang/ICS_lab)
-* [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2302-ICS)
+* [Kiwi-2022](https://github.com/kiwi142857/SE2301-SE2302-ICS)
 
 ### Database System-Book Store
 
@@ -337,7 +337,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [rennsax-2021](https://github.com/rennsax/SE2308-QBasic)
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-software-engineering-practice)
 * [GiggleWang-2022](https://github.com/GiggleWang/SJTU-SEP-code)
-* [Kiwi-2022](https://github.com/kiwi142857/SJTU-SEP-Project)
+* [Kiwi-2022](https://github.com/kiwi142857/SE1301-SEP-Project)
 * [Ayanami-2023-QLink](https://github.com/Ayanami1314/QLink)
 * [Ayanami-2023-QBasic](https://github.com/Ayanami1314/qbasic)
 * [overji-2023](https://github.com/overji/SJTU-SE-SEP2024)
@@ -369,7 +369,7 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Ayanami-2022](https://github.com/Ayanami1314/LSM-KV)
 * [Creeper-2022](https://github.com/creeper12356/LSM-KV)
 * [GiggleWang-2022](https://github.com/GiggleWang/LSM_Tree)
-* [Kiwi-2022](https://github.com/kiwi142857/SJTU-SE2322-ADS)
+* [Kiwi-2022](https://github.com/kiwi142857/SE2322-ADS)
 
 ### Cloud Operating System
 
