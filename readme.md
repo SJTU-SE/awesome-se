@@ -262,6 +262,7 @@ ___
 * [PeterTheSparrow-2021](https://github.com/PeterTheSparrow/SE3353-Architecture-of-Enterprise-Applications-2023Autumn-SJTU-notes)
 * [Ayanami-2022-homeworks&notes](https://ayanami1314.github.io/docs/%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E4%BD%9C%E4%B8%9A/hw1-impl)
 * [bangdreammygo-2022](https://github.com/bangdreammygo/SJTU--SE3353)
+* [Kiwi-2022](https://github.com/kiwi142857/SE2321-SE3353-Arch)
 
 ### Digital Component Design
 
