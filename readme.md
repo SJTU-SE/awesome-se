@@ -149,8 +149,8 @@ ___
 * [GiggleWang-backend-2022](https://github.com/GiggleWang/web-bookstore-backend)
 ### CSE (yfs lab, MIT 6.033)
 
-> 2021 级及以前：SE227 - 计算机系统工程
-> 2022 级及以后：SE3331 - 计算机系统基础
+> 2019 级及以前：SE227 - 计算机系统工程
+> 2020 级及以后：SE3331 - 计算机系统工程
 
 * [kingFighter-2011](https://github.com/kingFighter/cse-lab-2013-fall)
 * [Azard-2012](https://github.com/Azard/SE227-CSE-lab)
