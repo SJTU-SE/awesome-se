@@ -148,6 +148,9 @@ ___
 * [Ayanami-frontend-2022](https://github.com/Ayanami1314/eBookStore_Frontend)
 * [GiggleWang-frontend-2022](https://github.com/GiggleWang/web-bookstore-frontend)
 * [GiggleWang-backend-2022](https://github.com/GiggleWang/web-bookstore-backend)
+* [steven-frontend-2023](https://github.com/stevenissleepy/BookStore-Frontend)
+* [steven-backend-2023](https://github.com/stevenissleepy/BookStore-Backend)
+
 ### CSE (yfs lab, MIT 6.033)
 
 > 2019 级及以前：SE227 - 计算机系统工程
@@ -177,6 +180,7 @@ ___
 * [ghazariann-2021](https://github.com/ghazariann/SJTU-computer-system-engineering)
 * [EdogawaAi-2022](https://github.com/EdogawaAi/SE3331-chfs.git)
 * [Kiwi-2022](https://github.com/kiwi142857/SE3331-CSE-Chfs)
+* [steven-2023](https://github.com/stevenissleepy/chfs)
 
 ### OS (jos lab, MIT 6.828 | chcore lab)
 
@@ -244,6 +248,7 @@ ___
 * [rennsax-2021](https://github.com/rennsax/SE3355-Tiger-Compiler)
 * [EdogawaAi-2022](https://github.com/EdogawaAi/compilers-2024.git)
 * [Kiwi-2022](https://github.com/kiwi142857/SE3355-Compiler-Lab)
+* [steven-2023](https://github.com/stevenissleepy/compiler-lab-2025)
 
 ### Programming Languages
 
