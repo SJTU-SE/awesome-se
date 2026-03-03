@@ -351,6 +351,8 @@ The following is the result of searching "6.858 Computer Systems Security site:g
 * [Ayanami-2023-QLink](https://github.com/Ayanami1314/QLink)
 * [Ayanami-2023-QBasic](https://github.com/Ayanami1314/qbasic)
 * [overji-2023](https://github.com/overji/SJTU-SE-SEP2024)
+* [MidoriKurage-2024-QLink](https://github.com/mdrkrg/qlink-box2d)
+* [MidoriKurage-2024-QBasic](https://github.com/mdrkrg/qbasic-rs)
 
 ### Machine Learning
 
